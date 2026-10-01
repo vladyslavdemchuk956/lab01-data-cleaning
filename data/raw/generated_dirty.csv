@@ -1,0 +1,2081 @@
+id,x1,x2,x3,cat_a,cat_b,date,text
+ID_1000,,36.83,17,Clothing,Wholesale,,Customer pending approval
+ID_1001,475.85 $,37.6,9,Books,Online,2023-01-01 01:00:00,Order delivered successfully
+ID_1002,,46.6,2,,Retail,2023-01-01 02:00:00,Order delivered successfully
+ID_1003,,55.51,18,Books,Online,2023-01-01 03:00:00,Order delivered successfully
+ID_1004,86.45,63.7,9,Clothing,Wholesale,,Customer pending approval
+ID_1005,86.44 $,37.95,6,,Wholesale,,Order delivered successfully
+ID_1006,38.46,72.39,11,Books,Wholesale,,Order delivered successfully
+ID_1007,434.43,45.93,6,,Retail,2023-01-01 07:00:00,Order delivered successfully
+ID_1008,304.55,49.68,6,Clothing,Online,2023-01-01 08:00:00,Item returned back
+ID_1009,356.96,38.79,13,Home,Online,2023-01-01 09:00:00,Customer pending approval
+ID_1010,20.09 $,13.64,11,,Online,2023-01-01 10:00:00,Item returned back
+ID_1011,485.26,63.26,14,Clothing,Retail,2023-01-01 11:00:00,Item returned back
+ID_1012,417.9,61.05,2,Home,Retail,2023-01-01 12:00:00,Customer pending approval
+ID_1013,114.05,45.78,8,,Wholesale,,Item returned back
+ID_1014,99.09,51.0,3,Books,Wholesale,,Order delivered successfully
+ID_1015,99.87,57.74,3,Electronics,Online,2023-01-01 15:00:00,Order delivered successfully
+ID_1016,159.08,26.56,1,Books,Retail,2023-01-01 16:00:00,Order delivered successfully
+ID_1017,267.13,42.06,19,Books,Retail,2023-01-01 17:00:00,Order delivered successfully
+ID_1018,221.65,61.91,18,Clothing,Online,2023-01-01 18:00:00,Customer pending approval
+ID_1019,,31.19,17,Clothing,Online,2023-01-01 19:00:00,Item returned back
+ID_1020,309.81 $,54.4,13,Books,Wholesale,,Item returned back
+ID_1021,78.35 $,29.65,3,Home,Wholesale,,
+ID_1022,153.15,57.0,1,,Wholesale,,
+ID_1023,189.52,49.47,4,Home,Online,2023-01-01 23:00:00,Item returned back
+ID_1024,233.47,25.77,13,Clothing,Online,2023-01-02 00:00:00,Customer pending approval
+ID_1025,394.74,67.47,17,Clothing,Wholesale,,Item returned back
+ID_1026,107.84,38.98,11,Books,Wholesale,,Order delivered successfully
+ID_1027,261.97,37.85,2,Electronics,Retail,2023-01-02 03:00:00,Order delivered successfully
+ID_1028,300.28,53.01,16,Clothing,Retail,2023-01-02 04:00:00,Customer pending approval
+ID_1029,32.76,67.23,2,Books,Wholesale,,
+ID_1030,307.7,34.76,19,Books,Wholesale,,Customer pending approval
+ID_1031,93.56,9999.0,19,Electronics,Retail,2023-01-02 07:00:00,Customer pending approval
+ID_1032,41.88,56.43,16,,Wholesale,,Order delivered successfully
+ID_1033,474.95,60.4,19,Books,Retail,2023-01-02 09:00:00,Item returned back
+ID_1034,483.16,52.65,9,Books,Retail,2023-01-02 10:00:00,Order delivered successfully
+ID_1035,406.11,44.49,1,Books,Retail,2023-01-02 11:00:00,Item returned back
+ID_1036,159.26,37.59,10,Home,Online,2023-01-02 12:00:00,Order delivered successfully
+ID_1037,57.86,51.29,19,Home,Online,2023-01-02 13:00:00,Order delivered successfully
+ID_1038,345.27,33.92,1,Electronics,Wholesale,,Item returned back
+ID_1039,225.67,6.18,2,Clothing,Retail,2023-01-02 15:00:00,
+ID_1040,69.8,56.55,16,Home,Online,2023-01-02 16:00:00,Order delivered successfully
+ID_1041,252.64,63.56,12,Clothing,Wholesale,,Item returned back
+ID_1042,26.85,14.56,8,,Wholesale,,Order delivered successfully
+ID_1043,455.57,34.85,18,,Wholesale,,Item returned back
+ID_1044,136.8,59.29,2,Books,Wholesale,,Order delivered successfully
+ID_1045,334.64,80.86,13,Electronics,Wholesale,,Order delivered successfully
+ID_1046,162.74,50.31,6,Clothing,Retail,2023-01-02 22:00:00,Order delivered successfully
+ID_1047,264.83,39.08,6,Books,Wholesale,,Customer pending approval
+ID_1048,277.89,47.26,9,Home,Retail,2023-01-03 00:00:00,Item returned back
+ID_1049,100.58,70.62,16,Clothing,Online,2023-01-03 01:00:00,Order delivered successfully
+ID_1050,485.1,40.31,11,Clothing,Wholesale,,Customer pending approval
+ID_1051,389.82,38.01,7,Clothing,Online,2023-01-03 03:00:00,Order delivered successfully
+ID_1052,470.35 $,42.76,10,Books,Retail,2023-01-03 04:00:00,Customer pending approval
+ID_1053,,35.7,10,,Retail,2023-01-03 05:00:00,Order delivered successfully
+ID_1054,302.97,51.84,18,Books,Online,,Order delivered successfully
+ID_1055,461.72,74.37,9,Clothing,Wholesale,,Customer pending approval
+ID_1056,53.36,54.85,15,Clothing,Wholesale,,
+ID_1057,106.03,46.21,4,Electronics,Online,2023-01-03 09:00:00,Item returned back
+ID_1058,32.16,45.62,8,Electronics,Online,2023-01-03 10:00:00,
+ID_1059,,26.55,9,,Online,2023-01-03 11:00:00,Customer pending approval
+ID_1060,200.45,63.25,13,Books,Wholesale,,Item returned back
+ID_1061,142.96,48.83,9,Home,Wholesale,,Customer pending approval
+ID_1062,416.08,47.29,4,Books,Wholesale,,Item returned back
+ID_1063,184.81,97.9,17,,Online,2023-01-03 15:00:00,Order delivered successfully
+ID_1064,147.66,54.48,16,Electronics,Wholesale,,Item returned back
+ID_1065,275.92,38.72,15,Electronics,Retail,2023-01-03 17:00:00,Order delivered successfully
+ID_1066,79.05 $,43.6,3,Clothing,Online,2023-01-03 18:00:00,Order delivered successfully
+ID_1067,403.08,67.23,5,Clothing,Wholesale,,Item returned back
+ID_1068,46.53,51.7,5,Books,Online,2023-01-03 20:00:00,Customer pending approval
+ID_1069,493.57,28.43,15,Home,Retail,2023-01-03 21:00:00,Order delivered successfully
+ID_1070,388.4,63.79,18,Home,Retail,2023-01-03 22:00:00,Order delivered successfully
+ID_1071,107.37,39.98,15,Home,Online,,Item returned back
+ID_1072,12.71 $,78.1,2,Clothing,Online,2023-01-04 00:00:00,Customer pending approval
+ID_1073,409.58,66.2,13,Electronics,Retail,2023-01-04 01:00:00,Customer pending approval
+ID_1074,356.36,43.29,4,Electronics,Online,2023-01-04 02:00:00,Item returned back
+ID_1075,,69.22,10,,Retail,2023-01-04 03:00:00,Customer pending approval
+ID_1076,387.92,51.02,13,Home,Retail,2023-01-04 04:00:00,Item returned back
+ID_1077,46.28,62.79,10,Home,Wholesale,,Item returned back
+ID_1078,185.65,57.27,9,Books,Online,2023-01-04 06:00:00,Item returned back
+ID_1079,66.78,37.3,8,Books,Online,2023-01-04 07:00:00,Order delivered successfully
+ID_1080,432.92,40.35,3,Home,Wholesale,,
+ID_1081,315.42,65.45,16,Clothing,Retail,2023-01-04 09:00:00,Order delivered successfully
+ID_1082,172.14,44.98,14,Home,Online,2023-01-04 10:00:00,Item returned back
+ID_1083,41.14,43.95,9,Books,Wholesale,,Order delivered successfully
+ID_1084,162.38,35.67,11,Home,Wholesale,,Order delivered successfully
+ID_1085,,56.35,3,Clothing,Online,2023-01-04 13:00:00,Order delivered successfully
+ID_1086,367.51,80.94,5,Electronics,Wholesale,,Item returned back
+ID_1087,,33.99,10,Clothing,Retail,2023-01-04 15:00:00,Item returned back
+ID_1088,,50.36,13,,Wholesale,,Item returned back
+ID_1089,241.39,71.18,4,Books,Retail,2023-01-04 17:00:00,Order delivered successfully
+ID_1090,68.6,48.81,13,Clothing,Retail,2023-01-04 18:00:00,Customer pending approval
+ID_1091,359.49,56.79,12,Clothing,Online,2023-01-04 19:00:00,
+ID_1092,382.78,34.06,5,Books,Wholesale,,Order delivered successfully
+ID_1093,,56.42,10,Books,Retail,,
+ID_1094,387.77,47.19,9,Electronics,Retail,2023-01-04 22:00:00,
+ID_1095,251.96,64.79,7,Home,Wholesale,,Order delivered successfully
+ID_1096,266.14,67.81,2,Clothing,Retail,2023-01-05 00:00:00,Order delivered successfully
+ID_1097,,88.84,7,,Wholesale,,Customer pending approval
+ID_1098,22.46,58.69,8,Electronics,Online,2023-01-05 02:00:00,Customer pending approval
+ID_1099,62.87,54.89,7,Home,Retail,2023-01-05 03:00:00,Item returned back
+ID_1100,25.4,52.92,14,,Retail,,
+ID_1101,,44.7,19,,Wholesale,,Customer pending approval
+ID_1102,,55.08,5,Home,Wholesale,,Item returned back
+ID_1103,259.2,45.57,18,,Wholesale,,Customer pending approval
+ID_1104,454.71,52.53,12,Clothing,Wholesale,,
+ID_1105,132.15,69.76,17,Books,Retail,2023-01-05 09:00:00,Customer pending approval
+ID_1106,211.09,34.9,13,Home,Online,2023-01-05 10:00:00,Item returned back
+ID_1107,380.22,67.1,2,Books,Online,2023-01-05 11:00:00,Order delivered successfully
+ID_1108,122.11,69.76,13,Books,Online,2023-01-05 12:00:00,Customer pending approval
+ID_1109,,48.23,7,Home,Online,2023-01-05 13:00:00,Order delivered successfully
+ID_1110,151.98,18.17,10,Books,Wholesale,,Order delivered successfully
+ID_1111,89.0,40.88,6,Home,Retail,2023-01-05 15:00:00,Customer pending approval
+ID_1112,465.55,69.45,3,Home,Retail,2023-01-05 16:00:00,Customer pending approval
+ID_1113,,9999.0,3,Home,Retail,2023-01-05 17:00:00,Item returned back
+ID_1114,320.37,35.01,18,Home,Wholesale,,Item returned back
+ID_1115,437.02,42.43,11,Electronics,Retail,2023-01-05 19:00:00,Order delivered successfully
+ID_1116,403.8,62.61,5,Home,Wholesale,,
+ID_1117,101.42,58.2,19,Clothing,Retail,2023-01-05 21:00:00,Order delivered successfully
+ID_1118,,46.42,19,Clothing,Online,,Order delivered successfully
+ID_1119,274.28,44.5,15,Clothing,Wholesale,,Item returned back
+ID_1120,405.65,44.12,16,Home,Retail,2023-01-06 00:00:00,Item returned back
+ID_1121,449.08,36.16,9,Clothing,Online,2023-01-06 01:00:00,Item returned back
+ID_1122,165.82,74.23,4,Electronics,Online,2023-01-06 02:00:00,Customer pending approval
+ID_1123,,45.17,15,,Online,2023-01-06 03:00:00,Order delivered successfully
+ID_1124,121.69,9999.0,12,Home,Wholesale,,Order delivered successfully
+ID_1125,,72.82,3,Clothing,Wholesale,,Order delivered successfully
+ID_1126,410.83,64.97,14,Electronics,Retail,2023-01-06 06:00:00,Item returned back
+ID_1127,431.76 $,43.53,17,Books,Online,2023-01-06 07:00:00,Item returned back
+ID_1128,13.41,56.06,19,Electronics,Retail,2023-01-06 08:00:00,Item returned back
+ID_1129,260.27,49.64,6,Clothing,Retail,2023-01-06 09:00:00,Item returned back
+ID_1130,,36.44,4,Electronics,Online,2023-01-06 10:00:00,
+ID_1131,118.83,54.87,7,Books,Retail,2023-01-06 11:00:00,Customer pending approval
+ID_1132,,32.31,19,Clothing,Wholesale,,Item returned back
+ID_1133,175.43,67.82,17,Books,Retail,2023-01-06 13:00:00,Order delivered successfully
+ID_1134,472.03 $,43.03,16,Electronics,Online,2023-01-06 14:00:00,Item returned back
+ID_1135,168.37,53.02,15,Home,Wholesale,,Order delivered successfully
+ID_1136,264.21,54.25,8,,Wholesale,,Item returned back
+ID_1137,354.48,46.12,19,Home,Retail,2023-01-06 17:00:00,Item returned back
+ID_1138,188.18,58.8,8,Home,Retail,2023-01-06 18:00:00,Order delivered successfully
+ID_1139,,42.88,18,,Wholesale,,Order delivered successfully
+ID_1140,481.6,63.07,16,,Retail,2023-01-06 20:00:00,Order delivered successfully
+ID_1141,133.37,29.81,19,Books,Online,2023-01-06 21:00:00,Order delivered successfully
+ID_1142,253.65,51.9,10,Clothing,Retail,2023-01-06 22:00:00,Customer pending approval
+ID_1143,157.43,79.08,17,,Retail,2023-01-06 23:00:00,Order delivered successfully
+ID_1144,,35.0,13,Books,Wholesale,,
+ID_1145,28.07,39.83,13,Home,Retail,2023-01-07 01:00:00,Item returned back
+ID_1146,308.69,57.71,7,Home,Retail,2023-01-07 02:00:00,Customer pending approval
+ID_1147,256.31,52.69,10,Home,Retail,,Order delivered successfully
+ID_1148,35.22,55.26,2,Books,Online,2023-01-07 04:00:00,Item returned back
+ID_1149,,57.34,4,Electronics,Retail,2023-01-07 05:00:00,Customer pending approval
+ID_1150,455.05,59.52,6,Home,Online,2023-01-07 06:00:00,Item returned back
+ID_1151,127.39,66.65,18,Home,Online,,Customer pending approval
+ID_1152,81.0,56.15,6,Clothing,Online,2023-01-07 08:00:00,Customer pending approval
+ID_1153,249.83,46.38,17,Electronics,Online,2023-01-07 09:00:00,Order delivered successfully
+ID_1154,492.97,60.09,14,Books,Wholesale,,Customer pending approval
+ID_1155,128.61,78.5,11,Clothing,Online,2023-01-07 11:00:00,Item returned back
+ID_1156,339.35,48.01,19,,Retail,2023-01-07 12:00:00,Item returned back
+ID_1157,383.19 $,35.38,2,Clothing,Online,2023-01-07 13:00:00,Order delivered successfully
+ID_1158,126.44,66.61,3,Clothing,Retail,2023-01-07 14:00:00,Order delivered successfully
+ID_1159,366.83,48.19,11,Home,Online,2023-01-07 15:00:00,Customer pending approval
+ID_1160,190.21,17.41,6,Electronics,Wholesale,,Order delivered successfully
+ID_1161,319.83,62.71,14,Electronics,Online,2023-01-07 17:00:00,Item returned back
+ID_1162,,41.97,19,,Online,2023-01-07 18:00:00,Item returned back
+ID_1163,,48.64,16,Home,Wholesale,,Order delivered successfully
+ID_1164,54.24 $,54.98,7,Books,Online,2023-01-07 20:00:00,Order delivered successfully
+ID_1165,419.3,52.86,8,Clothing,Retail,2023-01-07 21:00:00,Order delivered successfully
+ID_1166,167.18,60.64,19,Books,Online,2023-01-07 22:00:00,Customer pending approval
+ID_1167,101.39 $,43.47,16,Clothing,Online,2023-01-07 23:00:00,Customer pending approval
+ID_1168,29.98,57.7,7,Clothing,Online,2023-01-08 00:00:00,Item returned back
+ID_1169,299.54,46.11,9,Home,Wholesale,,Customer pending approval
+ID_1170,,9999.0,13,Home,Online,2023-01-08 02:00:00,Customer pending approval
+ID_1171,18.13,59.23,1,Books,Online,2023-01-08 03:00:00,
+ID_1172,260.93,35.97,8,Books,Retail,2023-01-08 04:00:00,Customer pending approval
+ID_1173,120.98,66.29,4,,Online,2023-01-08 05:00:00,Item returned back
+ID_1174,326.13,41.96,3,Home,Online,2023-01-08 06:00:00,Order delivered successfully
+ID_1175,,62.12,3,,Online,2023-01-08 07:00:00,Item returned back
+ID_1176,348.56 $,55.51,13,Clothing,Online,2023-01-08 08:00:00,Customer pending approval
+ID_1177,199.5,77.57,8,Electronics,Retail,2023-01-08 09:00:00,Order delivered successfully
+ID_1178,469.0,46.65,7,Home,Retail,2023-01-08 10:00:00,Order delivered successfully
+ID_1179,77.39,44.76,1,Clothing,Wholesale,,Order delivered successfully
+ID_1180,177.12 $,49.71,16,Electronics,Online,2023-01-08 12:00:00,Item returned back
+ID_1181,65.6,45.45,6,Electronics,Wholesale,,Order delivered successfully
+ID_1182,463.1,62.0,7,Clothing,Wholesale,,Item returned back
+ID_1183,439.9,25.76,12,Clothing,Online,2023-01-08 15:00:00,Item returned back
+ID_1184,136.39,34.19,9,Books,Retail,2023-01-08 16:00:00,Customer pending approval
+ID_1185,333.39,33.98,11,Home,Retail,2023-01-08 17:00:00,Customer pending approval
+ID_1186,410.44,64.25,10,Books,Online,2023-01-08 18:00:00,Order delivered successfully
+ID_1187,282.05,75.66,1,Electronics,Online,2023-01-08 19:00:00,Order delivered successfully
+ID_1188,269.53,48.43,18,Clothing,Retail,,Customer pending approval
+ID_1189,,47.47,4,Books,Online,2023-01-08 21:00:00,Item returned back
+ID_1190,55.62,51.05,5,Electronics,Online,2023-01-08 22:00:00,Item returned back
+ID_1191,449.64,67.43,9,Home,Online,2023-01-08 23:00:00,Customer pending approval
+ID_1192,451.2,36.09,17,Clothing,Retail,2023-01-09 00:00:00,Item returned back
+ID_1193,320.22,53.58,3,Books,Wholesale,,
+ID_1194,176.12,64.63,-5,Home,Wholesale,,Customer pending approval
+ID_1195,181.11,57.52,5,Books,Online,2023-01-09 03:00:00,Order delivered successfully
+ID_1196,365.72,52.84,16,Electronics,Retail,2023-01-09 04:00:00,Order delivered successfully
+ID_1197,449.58,65.02,3,Home,Online,2023-01-09 05:00:00,Customer pending approval
+ID_1198,444.67,9.45,15,Books,Retail,2023-01-09 06:00:00,Order delivered successfully
+ID_1199,392.14 $,60.17,3,Home,Online,2023-01-09 07:00:00,Customer pending approval
+ID_1200,324.6,40.19,14,,Retail,2023-01-09 08:00:00,Item returned back
+ID_1201,51.23,22.54,16,Home,Retail,2023-01-09 09:00:00,Item returned back
+ID_1202,89.2,57.67,17,Books,Wholesale,,Item returned back
+ID_1203,450.29,70.6,18,Electronics,Online,2023-01-09 11:00:00,Item returned back
+ID_1204,307.15,47.94,18,Clothing,Wholesale,,Customer pending approval
+ID_1205,14.51,64.29,14,Books,Wholesale,,Item returned back
+ID_1206,,74.18,18,Books,Retail,2023-01-09 14:00:00,Item returned back
+ID_1207,335.12,69.72,15,Electronics,Online,2023-01-09 15:00:00,Item returned back
+ID_1208,,74.6,15,Electronics,Retail,,Item returned back
+ID_1209,88.8,61.13,6,Clothing,Retail,,Customer pending approval
+ID_1210,278.88,51.13,15,Books,Retail,2023-01-09 18:00:00,Item returned back
+ID_1211,349.03 $,25.97,18,Electronics,Online,2023-01-09 19:00:00,Order delivered successfully
+ID_1212,329.46 $,46.31,4,Clothing,Online,2023-01-09 20:00:00,Order delivered successfully
+ID_1213,119.89,37.35,8,,Retail,2023-01-09 21:00:00,Order delivered successfully
+ID_1214,358.97,82.56,15,Electronics,Online,2023-01-09 22:00:00,Order delivered successfully
+ID_1215,126.25,47.36,3,Books,Retail,2023-01-09 23:00:00,Order delivered successfully
+ID_1216,169.45,51.85,15,Home,Online,2023-01-10 00:00:00,Order delivered successfully
+ID_1217,,58.27,13,Home,Online,2023-01-10 01:00:00,
+ID_1218,328.32,50.65,9,Clothing,Wholesale,,Order delivered successfully
+ID_1219,426.12,75.43,2,Home,Retail,2023-01-10 03:00:00,Item returned back
+ID_1220,332.23,40.66,8,Home,Wholesale,,Order delivered successfully
+ID_1221,288.47,52.92,17,Electronics,Wholesale,,Customer pending approval
+ID_1222,55.9,38.86,13,Clothing,Retail,2023-01-10 06:00:00,Order delivered successfully
+ID_1223,190.18,30.2,1,Books,Retail,2023-01-10 07:00:00,Item returned back
+ID_1224,,40.82,2,Clothing,Online,2023-01-10 08:00:00,Item returned back
+ID_1225,,49.44,15,Electronics,Retail,2023-01-10 09:00:00,Customer pending approval
+ID_1226,486.78,43.56,12,Home,Wholesale,,Customer pending approval
+ID_1227,202.62,39.61,14,Books,Wholesale,,Customer pending approval
+ID_1228,,28.91,2,Clothing,Retail,,Customer pending approval
+ID_1229,319.26,48.75,18,,Wholesale,,Order delivered successfully
+ID_1230,399.46,27.43,7,Clothing,Online,2023-01-10 14:00:00,Order delivered successfully
+ID_1231,,61.4,6,Books,Wholesale,,Item returned back
+ID_1232,292.68,51.24,14,Clothing,Online,2023-01-10 16:00:00,Customer pending approval
+ID_1233,251.33,28.14,8,Clothing,Wholesale,,Customer pending approval
+ID_1234,105.67,45.36,2,Clothing,Online,2023-01-10 18:00:00,
+ID_1235,364.00 $,38.72,17,Home,Online,2023-01-10 19:00:00,Customer pending approval
+ID_1236,,54.79,5,Books,Retail,2023-01-10 20:00:00,
+ID_1237,,70.11,14,Books,Online,2023-01-10 21:00:00,Item returned back
+ID_1238,,21.87,3,Home,Retail,2023-01-10 22:00:00,Customer pending approval
+ID_1239,96.78,51.73,5,Home,Wholesale,,Item returned back
+ID_1240,470.82,47.6,16,Home,Wholesale,,Item returned back
+ID_1241,,60.07,18,Electronics,Wholesale,,Order delivered successfully
+ID_1242,458.28,53.2,17,Clothing,Online,2023-01-11 02:00:00,Item returned back
+ID_1243,191.38,38.72,11,Clothing,Wholesale,,Customer pending approval
+ID_1244,17.57,45.21,17,Books,Wholesale,,Customer pending approval
+ID_1245,464.88,38.06,16,Clothing,Retail,2023-01-11 05:00:00,Item returned back
+ID_1246,219.81,66.14,2,Electronics,Retail,2023-01-11 06:00:00,Customer pending approval
+ID_1247,483.66 $,50.32,4,Home,Wholesale,,Order delivered successfully
+ID_1248,482.17,78.52,7,Books,Wholesale,,Item returned back
+ID_1249,427.97,49.09,2,Books,Online,2023-01-11 09:00:00,
+ID_1250,154.28 $,39.37,6,Clothing,Online,2023-01-11 10:00:00,
+ID_1251,198.7,27.29,17,Books,Wholesale,,Customer pending approval
+ID_1252,427.06,22.95,7,Home,Retail,2023-01-11 12:00:00,Customer pending approval
+ID_1253,165.29 $,26.24,5,Books,Wholesale,,Item returned back
+ID_1254,,54.01,5,Home,Online,2023-01-11 14:00:00,Customer pending approval
+ID_1255,282.83 $,57.63,16,Electronics,Retail,2023-01-11 15:00:00,Customer pending approval
+ID_1256,,26.28,19,Electronics,Retail,2023-01-11 16:00:00,Item returned back
+ID_1257,351.05,63.43,9,Home,Online,2023-01-11 17:00:00,Item returned back
+ID_1258,,42.75,5,Clothing,Wholesale,,Customer pending approval
+ID_1259,57.62 $,52.2,8,Books,Wholesale,,
+ID_1260,311.35,74.18,9,Clothing,Wholesale,,Item returned back
+ID_1261,495.13,63.45,5,Books,Online,2023-01-11 21:00:00,Item returned back
+ID_1262,78.64 $,45.97,10,Electronics,Retail,2023-01-11 22:00:00,Item returned back
+ID_1263,263.98,36.63,2,Electronics,Online,2023-01-11 23:00:00,Customer pending approval
+ID_1264,439.91,17.72,9,Electronics,Wholesale,,Item returned back
+ID_1265,372.98,39.21,11,Books,Online,2023-01-12 01:00:00,Order delivered successfully
+ID_1266,351.54,46.83,4,Electronics,Retail,,Item returned back
+ID_1267,,35.19,2,Electronics,Online,2023-01-12 03:00:00,Order delivered successfully
+ID_1268,186.15,48.03,6,Electronics,Wholesale,,Item returned back
+ID_1269,153.86,51.15,14,Electronics,Retail,2023-01-12 05:00:00,Order delivered successfully
+ID_1270,406.59,46.63,1,Clothing,Online,2023-01-12 06:00:00,Order delivered successfully
+ID_1271,406.96,40.25,18,Electronics,Online,2023-01-12 07:00:00,Item returned back
+ID_1272,434.87,52.53,7,Electronics,Retail,2023-01-12 08:00:00,Item returned back
+ID_1273,457.49,56.63,1,Clothing,Retail,2023-01-12 09:00:00,Item returned back
+ID_1274,260.56 $,33.64,1,Clothing,Wholesale,,Order delivered successfully
+ID_1275,255.74,71.16,1,Books,Retail,2023-01-12 11:00:00,Customer pending approval
+ID_1276,401.16,48.52,4,Home,Wholesale,,Customer pending approval
+ID_1277,328.48 $,50.28,4,Electronics,Online,2023-01-12 13:00:00,Item returned back
+ID_1278,353.96,60.62,18,Electronics,Wholesale,,Customer pending approval
+ID_1279,399.94,53.5,11,Electronics,Online,,Customer pending approval
+ID_1280,446.1,64.3,1,,Retail,2023-01-12 16:00:00,Item returned back
+ID_1281,175.62,54.31,10,Electronics,Online,2023-01-12 17:00:00,Order delivered successfully
+ID_1282,,40.81,9,Home,Retail,2023-01-12 18:00:00,
+ID_1283,56.05,55.42,4,Clothing,Online,2023-01-12 19:00:00,
+ID_1284,,32.84,6,Books,Online,2023-01-12 20:00:00,Order delivered successfully
+ID_1285,27.61,51.63,16,,Online,2023-01-12 21:00:00,Customer pending approval
+ID_1286,238.14,49.5,2,,Online,2023-01-12 22:00:00,Order delivered successfully
+ID_1287,275.9,46.88,18,Electronics,Wholesale,,
+ID_1288,150.41,48.07,10,,Online,2023-01-13 00:00:00,Item returned back
+ID_1289,299.51,21.77,17,Home,Wholesale,,Customer pending approval
+ID_1290,,41.77,13,Home,Retail,2023-01-13 02:00:00,Customer pending approval
+ID_1291,,51.39,18,Books,Retail,2023-01-13 03:00:00,Order delivered successfully
+ID_1292,413.07,52.4,13,Clothing,Wholesale,,Customer pending approval
+ID_1293,186.49,34.58,17,Electronics,Retail,2023-01-13 05:00:00,Item returned back
+ID_1294,72.26,68.99,5,Electronics,Retail,2023-01-13 06:00:00,Item returned back
+ID_1295,265.9,37.01,11,Electronics,Online,2023-01-13 07:00:00,Item returned back
+ID_1296,387.3,64.54,7,Electronics,Online,2023-01-13 08:00:00,Order delivered successfully
+ID_1297,115.75,56.41,10,Home,Online,2023-01-13 09:00:00,
+ID_1298,,40.31,-5,Clothing,Wholesale,,Customer pending approval
+ID_1299,51.82,76.63,15,,Wholesale,,Customer pending approval
+ID_1300,35.32,32.1,18,Books,Retail,2023-01-13 12:00:00,Customer pending approval
+ID_1301,270.36,63.79,19,Home,Online,2023-01-13 13:00:00,Order delivered successfully
+ID_1302,274.91,65.01,2,Electronics,Wholesale,,Order delivered successfully
+ID_1303,322.34,39.94,4,Clothing,Wholesale,,Customer pending approval
+ID_1304,,70.89,3,Clothing,Online,2023-01-13 16:00:00,Order delivered successfully
+ID_1305,488.17,46.25,7,,Wholesale,,Order delivered successfully
+ID_1306,262.99,54.33,18,Books,Online,2023-01-13 18:00:00,Item returned back
+ID_1307,168.25,53.9,10,Books,Retail,2023-01-13 19:00:00,Item returned back
+ID_1308,399.64,47.99,7,Electronics,Retail,2023-01-13 20:00:00,Customer pending approval
+ID_1309,142.71,62.16,8,,Retail,2023-01-13 21:00:00,Customer pending approval
+ID_1310,225.1,61.9,6,Clothing,Online,2023-01-13 22:00:00,Item returned back
+ID_1311,48.44,23.77,1,Books,Wholesale,,Order delivered successfully
+ID_1312,22.42,69.57,4,,Retail,2023-01-14 00:00:00,Customer pending approval
+ID_1313,481.7,25.06,14,,Retail,,Customer pending approval
+ID_1314,419.63,65.49,17,Books,Retail,2023-01-14 02:00:00,Customer pending approval
+ID_1315,351.03,66.9,18,Books,Wholesale,,Order delivered successfully
+ID_1316,210.39,33.64,11,Home,Wholesale,,Item returned back
+ID_1317,94.91,43.84,14,Electronics,Online,2023-01-14 05:00:00,
+ID_1318,,33.41,9,Books,Retail,2023-01-14 06:00:00,Item returned back
+ID_1319,132.62,46.78,15,Home,Wholesale,,Item returned back
+ID_1320,279.12,45.38,12,Clothing,Online,2023-01-14 08:00:00,Order delivered successfully
+ID_1321,,61.69,10,Home,Retail,2023-01-14 09:00:00,Order delivered successfully
+ID_1322,333.5,69.65,19,Home,Wholesale,,Order delivered successfully
+ID_1323,147.17,70.94,19,Books,Wholesale,,Order delivered successfully
+ID_1324,477.88,41.57,6,Books,Online,2023-01-14 12:00:00,Order delivered successfully
+ID_1325,371.57,46.86,6,Books,Retail,2023-01-14 13:00:00,Order delivered successfully
+ID_1326,281.63,24.75,8,Home,Retail,2023-01-14 14:00:00,Customer pending approval
+ID_1327,309.74,37.91,1,Clothing,Wholesale,,Item returned back
+ID_1328,215.6,64.47,17,Electronics,Retail,2023-01-14 16:00:00,Order delivered successfully
+ID_1329,131.39,74.23,17,Home,Online,2023-01-14 17:00:00,
+ID_1330,184.43,31.48,15,Books,Wholesale,,
+ID_1331,381.34,41.11,7,Electronics,Wholesale,,
+ID_1332,17.05,49.6,19,Clothing,Online,2023-01-14 20:00:00,Order delivered successfully
+ID_1333,66.88,54.2,3,Electronics,Wholesale,,Customer pending approval
+ID_1334,32.54,37.86,11,Books,Retail,2023-01-14 22:00:00,Item returned back
+ID_1335,29.96,56.36,19,Home,Retail,2023-01-14 23:00:00,Order delivered successfully
+ID_1336,429.18,42.89,9,Home,Wholesale,,Item returned back
+ID_1337,354.79,49.78,10,Books,Online,,Customer pending approval
+ID_1338,242.35,58.19,2,Home,Online,2023-01-15 02:00:00,Order delivered successfully
+ID_1339,57.94,50.1,1,Books,Retail,2023-01-15 03:00:00,Item returned back
+ID_1340,250.89,43.45,16,Home,Online,2023-01-15 04:00:00,Customer pending approval
+ID_1341,242.0,48.36,18,Home,Wholesale,,Customer pending approval
+ID_1342,,48.67,17,Home,Wholesale,,Order delivered successfully
+ID_1343,222.59,44.45,6,,Retail,2023-01-15 07:00:00,Item returned back
+ID_1344,205.27,46.12,14,Clothing,Retail,2023-01-15 08:00:00,Order delivered successfully
+ID_1345,311.77,73.98,15,Books,Retail,2023-01-15 09:00:00,Order delivered successfully
+ID_1346,321.20 $,58.41,14,Clothing,Online,,Item returned back
+ID_1347,32.2,45.57,3,Books,Wholesale,,Item returned back
+ID_1348,193.56,60.45,19,Electronics,Wholesale,,Item returned back
+ID_1349,316.67,44.99,12,Electronics,Wholesale,,Customer pending approval
+ID_1350,256.54,67.6,-5,Clothing,Retail,2023-01-15 14:00:00,Customer pending approval
+ID_1351,,55.54,3,Electronics,Wholesale,,Item returned back
+ID_1352,,48.39,18,Electronics,Online,2023-01-15 16:00:00,Customer pending approval
+ID_1353,89.84,56.72,1,Home,Online,2023-01-15 17:00:00,Order delivered successfully
+ID_1354,44.58,26.44,6,,Wholesale,,Item returned back
+ID_1355,,33.1,5,Books,Retail,2023-01-15 19:00:00,Order delivered successfully
+ID_1356,22.99,32.09,1,Electronics,Wholesale,,
+ID_1357,,52.14,19,Books,Online,2023-01-15 21:00:00,Order delivered successfully
+ID_1358,470.71 $,75.99,1,Books,Online,2023-01-15 22:00:00,Item returned back
+ID_1359,291.98,83.47,16,Electronics,Online,2023-01-15 23:00:00,Order delivered successfully
+ID_1360,200.2,59.57,12,Clothing,Wholesale,,Item returned back
+ID_1361,,57.51,8,Electronics,Online,2023-01-16 01:00:00,Item returned back
+ID_1362,234.54,22.98,16,Home,Retail,2023-01-16 02:00:00,Customer pending approval
+ID_1363,277.35,41.86,1,,Wholesale,,Order delivered successfully
+ID_1364,,38.18,4,Clothing,Wholesale,,Customer pending approval
+ID_1365,199.19,40.69,10,Books,Online,2023-01-16 05:00:00,Order delivered successfully
+ID_1366,480.98,47.48,11,Books,Online,2023-01-16 06:00:00,Customer pending approval
+ID_1367,453.62,42.92,17,Home,Retail,2023-01-16 07:00:00,Item returned back
+ID_1368,105.94,20.31,7,Home,Wholesale,,Customer pending approval
+ID_1369,43.99,61.22,12,Home,Online,2023-01-16 09:00:00,Customer pending approval
+ID_1370,59.38,33.91,7,,Retail,2023-01-16 10:00:00,Item returned back
+ID_1371,18.93,53.59,12,Home,Online,2023-01-16 11:00:00,Customer pending approval
+ID_1372,,81.11,15,Electronics,Wholesale,,Item returned back
+ID_1373,344.67,36.21,2,Books,Online,2023-01-16 13:00:00,Order delivered successfully
+ID_1374,,12.05,14,Clothing,Wholesale,,Customer pending approval
+ID_1375,166.3,45.71,13,Books,Online,2023-01-16 15:00:00,Item returned back
+ID_1376,423.99,66.51,4,Electronics,Wholesale,,Item returned back
+ID_1377,21.4,79.38,14,Electronics,Retail,2023-01-16 17:00:00,
+ID_1378,409.09,31.56,14,Home,Wholesale,,
+ID_1379,148.11,57.45,16,Books,Retail,2023-01-16 19:00:00,Customer pending approval
+ID_1380,67.9,43.02,7,Books,Wholesale,,Item returned back
+ID_1381,351.4,48.41,19,Books,Retail,2023-01-16 21:00:00,Order delivered successfully
+ID_1382,,89.67,2,Clothing,Online,2023-01-16 22:00:00,Customer pending approval
+ID_1383,,27.46,-5,Home,Wholesale,,Item returned back
+ID_1384,370.18 $,53.81,18,Electronics,Online,2023-01-17 00:00:00,Customer pending approval
+ID_1385,403.71,57.02,17,Electronics,Retail,2023-01-17 01:00:00,
+ID_1386,148.20 $,66.29,5,Home,Wholesale,,Order delivered successfully
+ID_1387,,51.47,12,Electronics,Wholesale,,Order delivered successfully
+ID_1388,377.8,54.62,6,Electronics,Online,2023-01-17 04:00:00,Order delivered successfully
+ID_1389,405.35,44.13,9,Home,Wholesale,,Order delivered successfully
+ID_1390,,54.04,1,Electronics,Wholesale,,Customer pending approval
+ID_1391,,44.85,15,Books,Online,2023-01-17 07:00:00,Order delivered successfully
+ID_1392,192.29,59.32,6,Clothing,Wholesale,,Order delivered successfully
+ID_1393,390.44,44.46,19,Home,Online,2023-01-17 09:00:00,Item returned back
+ID_1394,176.99,55.66,18,Clothing,Online,2023-01-17 10:00:00,Order delivered successfully
+ID_1395,466.07,49.56,6,Electronics,Online,2023-01-17 11:00:00,Item returned back
+ID_1396,430.62,66.89,13,Electronics,Online,2023-01-17 12:00:00,Item returned back
+ID_1397,220.21,49.23,1,Books,Online,2023-01-17 13:00:00,Item returned back
+ID_1398,377.93,23.4,13,Home,Retail,2023-01-17 14:00:00,
+ID_1399,,68.93,7,Electronics,Retail,2023-01-17 15:00:00,Customer pending approval
+ID_1400,,36.41,15,Home,Online,2023-01-17 16:00:00,Item returned back
+ID_1401,452.25,40.19,12,Home,Retail,2023-01-17 17:00:00,Customer pending approval
+ID_1402,,41.07,1,Home,Retail,2023-01-17 18:00:00,Order delivered successfully
+ID_1403,,70.62,15,Home,Wholesale,,Customer pending approval
+ID_1404,166.82,17.96,4,Home,Online,2023-01-17 20:00:00,Order delivered successfully
+ID_1405,448.81,97.07,13,Clothing,Retail,2023-01-17 21:00:00,Order delivered successfully
+ID_1406,200.71,65.84,5,Books,Wholesale,,Customer pending approval
+ID_1407,15.31,53.35,2,,Wholesale,,
+ID_1408,453.64,49.18,1,,Online,2023-01-18 00:00:00,Item returned back
+ID_1409,54.73,54.28,16,Electronics,Online,2023-01-18 01:00:00,Customer pending approval
+ID_1410,166.46,57.82,6,Home,Wholesale,,Customer pending approval
+ID_1411,475.53,59.68,16,Electronics,Online,2023-01-18 03:00:00,
+ID_1412,475.80 $,58.33,14,Home,Online,2023-01-18 04:00:00,Order delivered successfully
+ID_1413,290.98,51.34,3,Clothing,Wholesale,,Order delivered successfully
+ID_1414,319.6,47.04,15,Clothing,Wholesale,,Order delivered successfully
+ID_1415,229.74,47.73,3,Clothing,Online,2023-01-18 07:00:00,Item returned back
+ID_1416,,47.08,2,Books,Retail,2023-01-18 08:00:00,Item returned back
+ID_1417,171.05,67.01,1,Electronics,Online,2023-01-18 09:00:00,Item returned back
+ID_1418,339.53,58.9,9,Books,Retail,2023-01-18 10:00:00,Order delivered successfully
+ID_1419,378.66,5.89,9,Home,Wholesale,,Customer pending approval
+ID_1420,397.87,59.84,7,Electronics,Retail,2023-01-18 12:00:00,Item returned back
+ID_1421,396.91,52.92,3,Clothing,Wholesale,,Item returned back
+ID_1422,54.69,49.72,18,Electronics,Online,2023-01-18 14:00:00,Order delivered successfully
+ID_1423,252.27,44.17,11,Clothing,Online,2023-01-18 15:00:00,Item returned back
+ID_1424,38.2,66.86,7,,Wholesale,,Customer pending approval
+ID_1425,279.27,64.21,9,Books,Wholesale,,Order delivered successfully
+ID_1426,,38.41,1,Clothing,Wholesale,,Order delivered successfully
+ID_1427,444.98,56.11,14,Clothing,Online,2023-01-18 19:00:00,Customer pending approval
+ID_1428,181.95,35.43,6,Home,Online,2023-01-18 20:00:00,Customer pending approval
+ID_1429,67.36,29.31,7,,Retail,2023-01-18 21:00:00,Customer pending approval
+ID_1430,80.07,40.6,10,Books,Wholesale,,Item returned back
+ID_1431,383.14 $,62.94,7,Home,Retail,2023-01-18 23:00:00,
+ID_1432,,64.3,2,Books,Online,2023-01-19 00:00:00,Order delivered successfully
+ID_1433,,57.7,4,Clothing,Retail,2023-01-19 01:00:00,Customer pending approval
+ID_1434,51.21,60.88,17,Electronics,Retail,,Order delivered successfully
+ID_1435,353.47,57.74,1,Electronics,Online,2023-01-19 03:00:00,Order delivered successfully
+ID_1436,45.65,40.38,10,Books,Online,2023-01-19 04:00:00,Item returned back
+ID_1437,,56.48,19,Home,Wholesale,,Customer pending approval
+ID_1438,356.06,62.01,15,Clothing,Retail,2023-01-19 06:00:00,Item returned back
+ID_1439,49.86,61.31,10,Electronics,Online,2023-01-19 07:00:00,Customer pending approval
+ID_1440,51.57,67.83,19,Clothing,Online,2023-01-19 08:00:00,Customer pending approval
+ID_1441,493.45,60.62,12,Books,Retail,2023-01-19 09:00:00,Customer pending approval
+ID_1442,193.39,55.27,16,Books,Online,2023-01-19 10:00:00,Customer pending approval
+ID_1443,191.61,66.05,9,Electronics,Wholesale,,Customer pending approval
+ID_1444,408.27,49.6,15,,Wholesale,,Order delivered successfully
+ID_1445,474.15,36.77,17,Home,Retail,2023-01-19 13:00:00,Order delivered successfully
+ID_1446,493.14,47.55,14,Books,Wholesale,,Customer pending approval
+ID_1447,379.16,38.83,18,Books,Online,2023-01-19 15:00:00,Order delivered successfully
+ID_1448,194.37,39.87,2,Books,Online,2023-01-19 16:00:00,Item returned back
+ID_1449,50.92,9999.0,4,Clothing,Online,2023-01-19 17:00:00,Item returned back
+ID_1450,390.8,38.11,18,Clothing,Online,2023-01-19 18:00:00,Item returned back
+ID_1451,283.62,45.38,7,Electronics,Retail,,Customer pending approval
+ID_1452,217.87,21.6,13,Electronics,Wholesale,,Customer pending approval
+ID_1453,454.11,53.2,15,Electronics,Wholesale,,Order delivered successfully
+ID_1454,,50.02,1,Books,Online,,Order delivered successfully
+ID_1455,,37.74,11,Clothing,Retail,2023-01-19 23:00:00,Order delivered successfully
+ID_1456,15.56,59.89,10,Home,Online,2023-01-20 00:00:00,Item returned back
+ID_1457,239.64,64.06,5,Books,Online,2023-01-20 01:00:00,Item returned back
+ID_1458,37.59,25.89,16,Books,Retail,2023-01-20 02:00:00,Item returned back
+ID_1459,,38.56,11,Books,Retail,2023-01-20 03:00:00,Item returned back
+ID_1460,,38.46,6,,Online,2023-01-20 04:00:00,Order delivered successfully
+ID_1461,328.11,35.9,9,,Wholesale,,Customer pending approval
+ID_1462,375.56,62.44,13,Home,Online,2023-01-20 06:00:00,Customer pending approval
+ID_1463,295.85,47.09,8,Electronics,Wholesale,,Item returned back
+ID_1464,481.46,46.03,14,Home,Wholesale,,Customer pending approval
+ID_1465,193.69,19.94,1,Clothing,Retail,2023-01-20 09:00:00,
+ID_1466,,59.53,17,Books,Retail,2023-01-20 10:00:00,Customer pending approval
+ID_1467,435.61,31.41,5,Books,Online,2023-01-20 11:00:00,Item returned back
+ID_1468,119.56,50.9,2,Books,Wholesale,,Order delivered successfully
+ID_1469,481.98,54.16,9,Electronics,Wholesale,,Order delivered successfully
+ID_1470,15.96,70.41,4,Home,Online,2023-01-20 14:00:00,Customer pending approval
+ID_1471,485.24,30.37,17,Clothing,Online,2023-01-20 15:00:00,Order delivered successfully
+ID_1472,31.15,4.71,17,Home,Online,2023-01-20 16:00:00,Order delivered successfully
+ID_1473,446.66,52.76,18,Books,Retail,2023-01-20 17:00:00,Item returned back
+ID_1474,268.57,77.01,16,Clothing,Online,2023-01-20 18:00:00,Item returned back
+ID_1475,496.55,68.58,8,Clothing,Online,2023-01-20 19:00:00,Customer pending approval
+ID_1476,46.16,53.14,11,,Wholesale,,Customer pending approval
+ID_1477,281.39,42.63,18,Home,Online,2023-01-20 21:00:00,Customer pending approval
+ID_1478,,62.11,10,Books,Wholesale,,Item returned back
+ID_1479,,35.4,13,Home,Wholesale,,Order delivered successfully
+ID_1480,318.41,57.15,17,Clothing,Retail,,Item returned back
+ID_1481,,57.58,18,Clothing,Online,2023-01-21 01:00:00,Item returned back
+ID_1482,232.73,65.9,10,Books,Online,2023-01-21 02:00:00,Order delivered successfully
+ID_1483,317.5,91.39,16,Clothing,Wholesale,,Order delivered successfully
+ID_1484,,55.89,5,Electronics,Retail,2023-01-21 04:00:00,Customer pending approval
+ID_1485,451.57,42.37,13,Clothing,Retail,2023-01-21 05:00:00,Order delivered successfully
+ID_1486,32.27,49.62,18,Electronics,Online,,Order delivered successfully
+ID_1487,147.67,23.46,17,Clothing,Wholesale,,Order delivered successfully
+ID_1488,475.7,39.58,9,Books,Online,2023-01-21 08:00:00,Order delivered successfully
+ID_1489,446.23,43.86,14,Books,Online,2023-01-21 09:00:00,Customer pending approval
+ID_1490,,42.14,17,Electronics,Online,2023-01-21 10:00:00,Customer pending approval
+ID_1491,313.86,52.29,4,Books,Online,,Order delivered successfully
+ID_1492,145.92,37.66,18,Clothing,Wholesale,,Order delivered successfully
+ID_1493,,66.82,15,Clothing,Retail,2023-01-21 13:00:00,Customer pending approval
+ID_1494,237.21,50.0,11,Books,Online,2023-01-21 14:00:00,Customer pending approval
+ID_1495,183.14,49.86,12,Clothing,Online,2023-01-21 15:00:00,Order delivered successfully
+ID_1496,295.99,45.08,9,Home,Online,2023-01-21 16:00:00,
+ID_1497,48.09,52.33,13,Home,Online,2023-01-21 17:00:00,
+ID_1498,487.45,62.38,15,Clothing,Retail,,Customer pending approval
+ID_1499,493.24 $,36.99,15,Books,Retail,2023-01-21 19:00:00,Customer pending approval
+ID_1500,352.1,40.13,5,Electronics,Retail,2023-01-21 20:00:00,Order delivered successfully
+ID_1501,272.69,45.44,19,,Retail,2023-01-21 21:00:00,
+ID_1502,161.67,29.81,14,Electronics,Online,2023-01-21 22:00:00,Customer pending approval
+ID_1503,408.76,37.71,17,Books,Wholesale,,Order delivered successfully
+ID_1504,345.52,42.86,18,Clothing,Retail,2023-01-22 00:00:00,Order delivered successfully
+ID_1505,89.68 $,63.12,3,Home,Retail,2023-01-22 01:00:00,Customer pending approval
+ID_1506,,53.94,2,Books,Online,2023-01-22 02:00:00,Order delivered successfully
+ID_1507,413.04,52.9,1,Electronics,Online,2023-01-22 03:00:00,Item returned back
+ID_1508,475.4,62.76,10,Home,Online,2023-01-22 04:00:00,Order delivered successfully
+ID_1509,365.6,47.94,19,Electronics,Online,2023-01-22 05:00:00,Order delivered successfully
+ID_1510,310.57,55.86,17,Clothing,Wholesale,,Customer pending approval
+ID_1511,214.94,48.45,12,Home,Wholesale,,Customer pending approval
+ID_1512,467.04,53.98,1,Electronics,Retail,2023-01-22 08:00:00,Item returned back
+ID_1513,434.37,41.26,12,Books,Wholesale,,Order delivered successfully
+ID_1514,32.16,13.42,17,Clothing,Retail,2023-01-22 10:00:00,Item returned back
+ID_1515,22.92,47.99,3,Clothing,Retail,2023-01-22 11:00:00,Item returned back
+ID_1516,194.47 $,71.34,11,Clothing,Wholesale,,Customer pending approval
+ID_1517,407.17,63.89,17,Books,Retail,2023-01-22 13:00:00,Order delivered successfully
+ID_1518,493.77,64.48,3,Books,Online,2023-01-22 14:00:00,Customer pending approval
+ID_1519,83.7,68.54,8,Home,Retail,2023-01-22 15:00:00,Item returned back
+ID_1520,,51.33,4,Books,Online,2023-01-22 16:00:00,Item returned back
+ID_1521,196.64,52.96,7,Home,Wholesale,,Customer pending approval
+ID_1522,485.26,40.74,14,,Wholesale,,Customer pending approval
+ID_1523,422.64,45.26,14,,Retail,2023-01-22 19:00:00,Customer pending approval
+ID_1524,420.78,59.24,4,Electronics,Online,,Customer pending approval
+ID_1525,239.66,68.06,16,Clothing,Retail,2023-01-22 21:00:00,
+ID_1526,213.26 $,47.91,1,Clothing,Wholesale,,Item returned back
+ID_1527,143.97,43.25,17,Home,Retail,2023-01-22 23:00:00,Customer pending approval
+ID_1528,37.62,50.01,10,Clothing,Retail,2023-01-23 00:00:00,Order delivered successfully
+ID_1529,433.71,59.02,16,Books,Online,2023-01-23 01:00:00,Item returned back
+ID_1530,408.32,28.34,16,Electronics,Wholesale,,Item returned back
+ID_1531,499.86,15.56,8,,Retail,2023-01-23 03:00:00,Order delivered successfully
+ID_1532,,41.74,7,Home,Online,2023-01-23 04:00:00,Order delivered successfully
+ID_1533,282.16,31.69,6,Clothing,Retail,2023-01-23 05:00:00,Item returned back
+ID_1534,386.8,42.38,16,Books,Online,2023-01-23 06:00:00,Customer pending approval
+ID_1535,,47.78,16,Clothing,Online,2023-01-23 07:00:00,Item returned back
+ID_1536,426.33,43.2,7,Clothing,Retail,2023-01-23 08:00:00,Item returned back
+ID_1537,131.2,71.79,9,Home,Wholesale,,
+ID_1538,230.77,54.9,14,Clothing,Wholesale,,Item returned back
+ID_1539,73.29,54.51,11,Electronics,Online,2023-01-23 11:00:00,Customer pending approval
+ID_1540,477.49 $,59.33,14,Clothing,Wholesale,,
+ID_1541,307.03,32.92,7,Clothing,Online,2023-01-23 13:00:00,Item returned back
+ID_1542,122.03,65.59,1,Home,Wholesale,,Item returned back
+ID_1543,339.13,48.86,13,Clothing,Retail,2023-01-23 15:00:00,Customer pending approval
+ID_1544,312.88,60.06,3,Books,Wholesale,,Item returned back
+ID_1545,,33.92,4,Home,Online,2023-01-23 17:00:00,Item returned back
+ID_1546,65.64,26.69,11,Clothing,Online,2023-01-23 18:00:00,
+ID_1547,339.07,62.27,2,Electronics,Wholesale,,Item returned back
+ID_1548,264.95,55.65,14,Electronics,Retail,2023-01-23 20:00:00,Customer pending approval
+ID_1549,388.44,36.47,12,,Online,2023-01-23 21:00:00,Item returned back
+ID_1550,,36.96,17,Home,Online,2023-01-23 22:00:00,Item returned back
+ID_1551,427.57,66.88,12,Clothing,Online,2023-01-23 23:00:00,Item returned back
+ID_1552,280.43,32.16,12,Books,Online,2023-01-24 00:00:00,Order delivered successfully
+ID_1553,284.86,74.64,1,Clothing,Online,2023-01-24 01:00:00,
+ID_1554,439.56,36.49,13,Electronics,Retail,2023-01-24 02:00:00,Order delivered successfully
+ID_1555,207.71,59.58,14,,Wholesale,,Order delivered successfully
+ID_1556,75.67,45.07,2,Books,Retail,2023-01-24 04:00:00,Customer pending approval
+ID_1557,24.1,59.05,12,Books,Retail,2023-01-24 05:00:00,Order delivered successfully
+ID_1558,380.02,41.84,16,Clothing,Online,2023-01-24 06:00:00,Order delivered successfully
+ID_1559,313.95,47.56,4,Electronics,Retail,2023-01-24 07:00:00,Order delivered successfully
+ID_1560,355.0,9999.0,8,Home,Online,2023-01-24 08:00:00,Customer pending approval
+ID_1561,114.35,34.97,2,Clothing,Retail,2023-01-24 09:00:00,Item returned back
+ID_1562,,61.11,10,Home,Online,2023-01-24 10:00:00,Customer pending approval
+ID_1563,17.13,42.3,9,Books,Online,2023-01-24 11:00:00,
+ID_1564,181.79,46.57,15,Books,Retail,2023-01-24 12:00:00,Customer pending approval
+ID_1565,299.06,35.08,13,Clothing,Retail,2023-01-24 13:00:00,Order delivered successfully
+ID_1566,,11.56,17,Electronics,Wholesale,,Item returned back
+ID_1567,224.36,47.13,16,Books,Wholesale,,Customer pending approval
+ID_1568,453.04,86.19,2,,Wholesale,,Customer pending approval
+ID_1569,180.65,61.77,14,Home,Retail,2023-01-24 17:00:00,Item returned back
+ID_1570,261.85,49.71,3,Clothing,Retail,2023-01-24 18:00:00,Item returned back
+ID_1571,393.99,46.06,12,Home,Online,2023-01-24 19:00:00,Item returned back
+ID_1572,204.31,50.34,8,Electronics,Wholesale,,Order delivered successfully
+ID_1573,314.82,58.21,2,Books,Online,2023-01-24 21:00:00,Item returned back
+ID_1574,432.56,32.29,4,Home,Online,2023-01-24 22:00:00,
+ID_1575,475.27,66.71,14,Home,Online,2023-01-24 23:00:00,Customer pending approval
+ID_1576,,60.73,16,Books,Online,2023-01-25 00:00:00,Order delivered successfully
+ID_1577,464.03,9999.0,19,Clothing,Wholesale,,Item returned back
+ID_1578,,56.58,2,Home,Online,2023-01-25 02:00:00,Order delivered successfully
+ID_1579,136.54,50.29,12,Clothing,Retail,2023-01-25 03:00:00,Item returned back
+ID_1580,234.98,60.09,14,Clothing,Retail,2023-01-25 04:00:00,Order delivered successfully
+ID_1581,490.22,58.88,6,Home,Retail,2023-01-25 05:00:00,Customer pending approval
+ID_1582,251.38,44.69,13,Electronics,Wholesale,,Order delivered successfully
+ID_1583,171.09,41.4,4,Clothing,Online,2023-01-25 07:00:00,Customer pending approval
+ID_1584,320.37,51.53,18,Home,Wholesale,,Item returned back
+ID_1585,127.67,73.24,12,Clothing,Online,2023-01-25 09:00:00,Customer pending approval
+ID_1586,47.17,31.41,19,Books,Wholesale,,Item returned back
+ID_1587,73.15 $,27.99,8,Electronics,Wholesale,,Item returned back
+ID_1588,72.74,52.47,7,Electronics,Online,2023-01-25 12:00:00,Customer pending approval
+ID_1589,84.43,50.76,16,,Wholesale,,Customer pending approval
+ID_1590,78.03,52.6,19,Books,Online,2023-01-25 14:00:00,Order delivered successfully
+ID_1591,324.03,53.66,6,Clothing,Retail,2023-01-25 15:00:00,Order delivered successfully
+ID_1592,99.12,46.65,11,Books,Retail,2023-01-25 16:00:00,Customer pending approval
+ID_1593,,72.35,5,Electronics,Retail,2023-01-25 17:00:00,Customer pending approval
+ID_1594,449.43,25.99,16,Books,Wholesale,,Customer pending approval
+ID_1595,242.24,37.57,7,Home,Retail,2023-01-25 19:00:00,
+ID_1596,337.1,48.45,5,Home,Online,2023-01-25 20:00:00,Item returned back
+ID_1597,94.44,25.35,11,Clothing,Retail,2023-01-25 21:00:00,
+ID_1598,104.22,47.36,15,Electronics,Retail,2023-01-25 22:00:00,Customer pending approval
+ID_1599,30.03,74.92,3,Home,Wholesale,,Customer pending approval
+ID_1600,92.78,50.31,5,Books,Online,2023-01-26 00:00:00,Customer pending approval
+ID_1601,,53.46,5,Home,Wholesale,,Item returned back
+ID_1602,,31.1,9,Home,Wholesale,,Order delivered successfully
+ID_1603,,40.75,15,Clothing,Online,2023-01-26 03:00:00,Order delivered successfully
+ID_1604,69.11,44.37,3,Books,Wholesale,,Order delivered successfully
+ID_1605,235.78,45.23,6,Books,Online,2023-01-26 05:00:00,Order delivered successfully
+ID_1606,111.1,69.22,17,Books,Retail,2023-01-26 06:00:00,Order delivered successfully
+ID_1607,188.49,58.37,8,Clothing,Online,2023-01-26 07:00:00,Item returned back
+ID_1608,256.67,33.33,11,Books,Online,2023-01-26 08:00:00,Order delivered successfully
+ID_1609,348.29 $,53.7,6,Books,Online,,Item returned back
+ID_1610,29.26 $,57.47,8,Home,Wholesale,,Item returned back
+ID_1611,401.71,67.1,10,Home,Online,2023-01-26 11:00:00,Order delivered successfully
+ID_1612,317.67,73.71,3,,Online,2023-01-26 12:00:00,Order delivered successfully
+ID_1613,50.06,34.77,14,Electronics,Online,2023-01-26 13:00:00,Order delivered successfully
+ID_1614,438.05,37.84,14,Electronics,Retail,2023-01-26 14:00:00,Customer pending approval
+ID_1615,461.23,31.14,10,,Online,2023-01-26 15:00:00,Item returned back
+ID_1616,,46.49,12,Electronics,Wholesale,,Order delivered successfully
+ID_1617,145.67,57.0,6,Clothing,Online,,Customer pending approval
+ID_1618,405.04,64.81,12,Home,Online,2023-01-26 18:00:00,Item returned back
+ID_1619,376.65 $,48.86,14,Clothing,Retail,2023-01-26 19:00:00,Customer pending approval
+ID_1620,100.42,45.2,2,Home,Online,2023-01-26 20:00:00,Customer pending approval
+ID_1621,,9999.0,9,Electronics,Wholesale,,Order delivered successfully
+ID_1622,191.53,37.47,10,Electronics,Online,2023-01-26 22:00:00,Item returned back
+ID_1623,247.42,81.34,17,Books,Wholesale,,Customer pending approval
+ID_1624,312.94,25.89,17,Electronics,Retail,2023-01-27 00:00:00,Item returned back
+ID_1625,190.77,52.77,3,Electronics,Online,2023-01-27 01:00:00,
+ID_1626,236.64,80.35,19,Books,Retail,2023-01-27 02:00:00,Item returned back
+ID_1627,376.26,50.1,1,Books,Online,2023-01-27 03:00:00,Customer pending approval
+ID_1628,,47.15,-5,,Wholesale,,Customer pending approval
+ID_1629,,44.64,7,Electronics,Retail,2023-01-27 05:00:00,Item returned back
+ID_1630,359.54,47.29,4,Home,Online,2023-01-27 06:00:00,Customer pending approval
+ID_1631,448.65,70.59,10,Home,Wholesale,,Customer pending approval
+ID_1632,260.72,16.82,13,Clothing,Retail,2023-01-27 08:00:00,Customer pending approval
+ID_1633,270.74,73.0,2,,Online,2023-01-27 09:00:00,Order delivered successfully
+ID_1634,62.51,28.64,10,Electronics,Retail,2023-01-27 10:00:00,Order delivered successfully
+ID_1635,229.23 $,46.0,4,,Online,2023-01-27 11:00:00,Customer pending approval
+ID_1636,270.98,43.56,18,Home,Wholesale,,Item returned back
+ID_1637,128.81,9999.0,5,Electronics,Wholesale,,Order delivered successfully
+ID_1638,141.93,26.03,19,Home,Retail,2023-01-27 14:00:00,Item returned back
+ID_1639,,56.93,2,Clothing,Retail,2023-01-27 15:00:00,Customer pending approval
+ID_1640,19.83,80.36,12,Books,Online,2023-01-27 16:00:00,Customer pending approval
+ID_1641,167.82,29.55,17,Home,Wholesale,,Item returned back
+ID_1642,113.61,52.85,10,,Online,2023-01-27 18:00:00,Order delivered successfully
+ID_1643,,40.07,2,Books,Wholesale,,Item returned back
+ID_1644,68.68,56.39,6,Home,Retail,2023-01-27 20:00:00,Item returned back
+ID_1645,446.36,50.29,8,Home,Online,2023-01-27 21:00:00,Customer pending approval
+ID_1646,300.86 $,40.38,19,Books,Online,2023-01-27 22:00:00,Order delivered successfully
+ID_1647,,57.32,11,Books,Wholesale,,Item returned back
+ID_1648,396.69,77.07,12,Books,Wholesale,,Order delivered successfully
+ID_1649,254.24,47.14,9,Electronics,Wholesale,,Customer pending approval
+ID_1650,52.59,60.8,2,,Retail,2023-01-28 02:00:00,Order delivered successfully
+ID_1651,,30.6,8,Home,Online,2023-01-28 03:00:00,Customer pending approval
+ID_1652,297.55,35.65,11,Home,Wholesale,,Order delivered successfully
+ID_1653,,57.09,4,Clothing,Retail,2023-01-28 05:00:00,Item returned back
+ID_1654,,72.26,10,Electronics,Wholesale,,Customer pending approval
+ID_1655,72.51,55.33,16,Home,Online,2023-01-28 07:00:00,Item returned back
+ID_1656,,45.3,8,Books,Wholesale,,Customer pending approval
+ID_1657,187.91,49.99,4,Books,Online,2023-01-28 09:00:00,Order delivered successfully
+ID_1658,326.5,31.24,10,,Retail,2023-01-28 10:00:00,Order delivered successfully
+ID_1659,289.68,59.07,12,Books,Retail,2023-01-28 11:00:00,
+ID_1660,,63.23,14,Clothing,Wholesale,,
+ID_1661,,43.22,16,Home,Online,2023-01-28 13:00:00,Customer pending approval
+ID_1662,,42.95,18,Home,Online,2023-01-28 14:00:00,Order delivered successfully
+ID_1663,,53.99,12,Home,Online,2023-01-28 15:00:00,Customer pending approval
+ID_1664,,43.45,18,Electronics,Wholesale,,Customer pending approval
+ID_1665,84.9,49.01,7,,Online,2023-01-28 17:00:00,Item returned back
+ID_1666,130.52,81.5,7,Clothing,Online,2023-01-28 18:00:00,Customer pending approval
+ID_1667,,46.29,9,Electronics,Online,2023-01-28 19:00:00,Item returned back
+ID_1668,101.42,44.62,1,Home,Online,2023-01-28 20:00:00,Item returned back
+ID_1669,149.7,40.29,6,Clothing,Wholesale,,Item returned back
+ID_1670,,61.16,6,Home,Wholesale,,Order delivered successfully
+ID_1671,449.42,47.28,12,Home,Online,2023-01-28 23:00:00,Item returned back
+ID_1672,49.31,40.26,12,Electronics,Online,2023-01-29 00:00:00,Customer pending approval
+ID_1673,267.01,9999.0,10,,Retail,2023-01-29 01:00:00,Order delivered successfully
+ID_1674,211.09,71.29,6,Clothing,Retail,2023-01-29 02:00:00,Order delivered successfully
+ID_1675,491.37,40.99,17,Home,Online,2023-01-29 03:00:00,Order delivered successfully
+ID_1676,64.9,22.0,19,Books,Online,2023-01-29 04:00:00,
+ID_1677,204.95 $,65.11,18,Home,Retail,2023-01-29 05:00:00,Order delivered successfully
+ID_1678,,39.73,6,Electronics,Retail,2023-01-29 06:00:00,Order delivered successfully
+ID_1679,434.1,61.86,19,Clothing,Online,2023-01-29 07:00:00,Order delivered successfully
+ID_1680,410.37,20.45,10,Electronics,Wholesale,,
+ID_1681,136.37,63.39,8,Books,Wholesale,,
+ID_1682,93.73,31.83,6,Home,Online,2023-01-29 10:00:00,Customer pending approval
+ID_1683,337.64,60.96,7,Electronics,Online,2023-01-29 11:00:00,Item returned back
+ID_1684,465.39,50.21,1,Electronics,Retail,2023-01-29 12:00:00,Item returned back
+ID_1685,282.81,35.69,18,Electronics,Retail,,
+ID_1686,290.09,43.89,12,Electronics,Wholesale,,Order delivered successfully
+ID_1687,147.19,60.29,16,Books,Online,2023-01-29 15:00:00,Item returned back
+ID_1688,387.05,51.59,10,Books,Retail,2023-01-29 16:00:00,Order delivered successfully
+ID_1689,101.65,58.77,10,Home,Wholesale,,Customer pending approval
+ID_1690,168.6,79.65,14,Home,Wholesale,,Customer pending approval
+ID_1691,218.46,26.54,10,Clothing,Wholesale,,Order delivered successfully
+ID_1692,258.73,74.26,10,Books,Retail,2023-01-29 20:00:00,Order delivered successfully
+ID_1693,128.78,51.57,11,Electronics,Retail,2023-01-29 21:00:00,Order delivered successfully
+ID_1694,66.27 $,36.52,2,Electronics,Online,2023-01-29 22:00:00,Customer pending approval
+ID_1695,309.2,30.05,8,Clothing,Online,2023-01-29 23:00:00,Order delivered successfully
+ID_1696,151.43,47.16,7,Electronics,Wholesale,,Item returned back
+ID_1697,294.81,63.82,8,Clothing,Wholesale,,Order delivered successfully
+ID_1698,,48.09,1,Home,Retail,2023-01-30 02:00:00,Item returned back
+ID_1699,245.76,72.67,2,,Retail,,Order delivered successfully
+ID_1700,270.97,28.23,18,Clothing,Online,2023-01-30 04:00:00,Order delivered successfully
+ID_1701,35.39,49.82,15,Electronics,Online,2023-01-30 05:00:00,Customer pending approval
+ID_1702,174.94,31.21,1,Clothing,Online,2023-01-30 06:00:00,Item returned back
+ID_1703,,55.45,5,Home,Retail,2023-01-30 07:00:00,Item returned back
+ID_1704,41.05,63.3,2,Electronics,Wholesale,,Item returned back
+ID_1705,495.08,43.69,3,Home,Online,2023-01-30 09:00:00,Customer pending approval
+ID_1706,,10.94,19,Home,Online,2023-01-30 10:00:00,Item returned back
+ID_1707,406.84,52.98,18,Clothing,Retail,2023-01-30 11:00:00,Customer pending approval
+ID_1708,134.77,56.55,18,Home,Online,2023-01-30 12:00:00,Order delivered successfully
+ID_1709,343.94,56.06,14,Electronics,Wholesale,,Order delivered successfully
+ID_1710,382.51 $,68.54,8,Home,Retail,2023-01-30 14:00:00,Item returned back
+ID_1711,301.86,33.93,12,,Online,2023-01-30 15:00:00,Order delivered successfully
+ID_1712,241.07,60.2,10,Clothing,Online,2023-01-30 16:00:00,Order delivered successfully
+ID_1713,211.8,67.89,17,Home,Retail,2023-01-30 17:00:00,Item returned back
+ID_1714,180.95,23.32,11,,Retail,2023-01-30 18:00:00,Order delivered successfully
+ID_1715,465.47,54.79,2,,Online,2023-01-30 19:00:00,Item returned back
+ID_1716,417.00 $,42.44,4,Clothing,Wholesale,,Item returned back
+ID_1717,482.86,48.78,1,Electronics,Retail,2023-01-30 21:00:00,Order delivered successfully
+ID_1718,70.91,55.22,15,Electronics,Wholesale,,Order delivered successfully
+ID_1719,368.13,42.69,13,Electronics,Online,2023-01-30 23:00:00,Order delivered successfully
+ID_1720,,39.86,8,Electronics,Wholesale,,Order delivered successfully
+ID_1721,98.8,50.51,4,Books,Online,2023-01-31 01:00:00,Order delivered successfully
+ID_1722,42.58,33.69,10,Clothing,Online,2023-01-31 02:00:00,Customer pending approval
+ID_1723,373.15,33.71,19,Home,Online,2023-01-31 03:00:00,
+ID_1724,,60.19,18,Electronics,Online,2023-01-31 04:00:00,Customer pending approval
+ID_1725,422.5,32.77,5,Electronics,Wholesale,,Item returned back
+ID_1726,78.49,59.99,-5,Electronics,Online,2023-01-31 06:00:00,Order delivered successfully
+ID_1727,399.68,56.94,16,Home,Online,2023-01-31 07:00:00,Order delivered successfully
+ID_1728,,24.11,1,Electronics,Wholesale,,Order delivered successfully
+ID_1729,90.19,39.84,12,Home,Retail,2023-01-31 09:00:00,Item returned back
+ID_1730,90.49 $,67.91,2,Clothing,Wholesale,,Customer pending approval
+ID_1731,409.14,35.28,8,Clothing,Wholesale,,Customer pending approval
+ID_1732,335.95,43.03,18,Clothing,Wholesale,,Order delivered successfully
+ID_1733,266.3,9999.0,16,Books,Online,2023-01-31 13:00:00,
+ID_1734,,61.75,5,Home,Online,2023-01-31 14:00:00,Order delivered successfully
+ID_1735,439.83,46.23,13,Electronics,Online,2023-01-31 15:00:00,Order delivered successfully
+ID_1736,,41.04,19,Electronics,Retail,2023-01-31 16:00:00,Item returned back
+ID_1737,410.13,71.34,3,Electronics,Online,2023-01-31 17:00:00,Order delivered successfully
+ID_1738,225.18,76.08,8,,Retail,,Item returned back
+ID_1739,194.7,64.68,12,,Online,2023-01-31 19:00:00,Order delivered successfully
+ID_1740,236.71,51.28,2,Electronics,Wholesale,,Customer pending approval
+ID_1741,,37.88,11,Books,Online,2023-01-31 21:00:00,Customer pending approval
+ID_1742,376.33,37.54,12,Home,Retail,2023-01-31 22:00:00,Order delivered successfully
+ID_1743,256.33,57.84,18,Clothing,Retail,2023-01-31 23:00:00,Order delivered successfully
+ID_1744,123.78,56.28,13,Electronics,Online,2023-02-01 00:00:00,
+ID_1745,450.79,71.02,5,Clothing,Wholesale,,Order delivered successfully
+ID_1746,198.11,59.76,12,Home,Online,2023-02-01 02:00:00,Order delivered successfully
+ID_1747,,27.45,2,Home,Online,2023-02-01 03:00:00,Order delivered successfully
+ID_1748,454.17,65.78,5,Electronics,Online,2023-02-01 04:00:00,Customer pending approval
+ID_1749,315.88,35.03,7,Home,Wholesale,,Item returned back
+ID_1750,67.28,44.24,12,Clothing,Retail,2023-02-01 06:00:00,Customer pending approval
+ID_1751,470.52,53.75,16,Electronics,Wholesale,,Item returned back
+ID_1752,317.58,79.94,8,Books,Retail,2023-02-01 08:00:00,Customer pending approval
+ID_1753,174.1,96.65,9,Electronics,Retail,2023-02-01 09:00:00,Order delivered successfully
+ID_1754,78.24,59.1,15,,Retail,2023-02-01 10:00:00,Customer pending approval
+ID_1755,399.07 $,47.25,5,Electronics,Wholesale,,
+ID_1756,313.84,58.02,13,Electronics,Online,2023-02-01 12:00:00,Item returned back
+ID_1757,271.4,63.31,5,Clothing,Online,2023-02-01 13:00:00,Item returned back
+ID_1758,448.01,45.19,11,Electronics,Online,2023-02-01 14:00:00,Customer pending approval
+ID_1759,,76.93,10,Electronics,Online,2023-02-01 15:00:00,Item returned back
+ID_1760,84.32,53.45,13,Clothing,Online,2023-02-01 16:00:00,Item returned back
+ID_1761,162.74,9999.0,9,Home,Wholesale,,Item returned back
+ID_1762,131.76,59.99,14,Clothing,Wholesale,,Item returned back
+ID_1763,374.53,56.32,18,,Wholesale,,Item returned back
+ID_1764,26.43,62.58,15,Books,Wholesale,,
+ID_1765,289.25,40.74,10,Books,Wholesale,,Item returned back
+ID_1766,,41.63,7,Clothing,Wholesale,,Order delivered successfully
+ID_1767,439.62,33.5,8,Books,Wholesale,,Customer pending approval
+ID_1768,177.62,56.59,3,,Online,2023-02-02 00:00:00,Customer pending approval
+ID_1769,412.42,61.68,15,Electronics,Retail,2023-02-02 01:00:00,Customer pending approval
+ID_1770,64.21,56.87,16,Clothing,Wholesale,,Item returned back
+ID_1771,424.76,75.12,4,,Retail,2023-02-02 03:00:00,Order delivered successfully
+ID_1772,72.47,49.92,6,,Wholesale,,Item returned back
+ID_1773,204.67,60.03,1,Electronics,Wholesale,,Customer pending approval
+ID_1774,400.67,33.62,4,Clothing,Online,2023-02-02 06:00:00,Customer pending approval
+ID_1775,83.46,44.19,11,Home,Retail,2023-02-02 07:00:00,Customer pending approval
+ID_1776,,60.43,12,Home,Online,2023-02-02 08:00:00,Customer pending approval
+ID_1777,363.9,62.74,5,Books,Online,2023-02-02 09:00:00,Item returned back
+ID_1778,362.82,45.59,16,Electronics,Retail,2023-02-02 10:00:00,Order delivered successfully
+ID_1779,324.16,48.93,13,Clothing,Online,2023-02-02 11:00:00,Order delivered successfully
+ID_1780,350.03 $,27.23,13,Books,Wholesale,,Customer pending approval
+ID_1781,275.93,44.64,17,Books,Wholesale,,Order delivered successfully
+ID_1782,,63.36,7,Electronics,Wholesale,,Customer pending approval
+ID_1783,179.39,58.63,8,Electronics,Wholesale,,Customer pending approval
+ID_1784,98.98,57.51,13,Clothing,Wholesale,,Order delivered successfully
+ID_1785,455.14,50.75,16,Books,Online,2023-02-02 17:00:00,Customer pending approval
+ID_1786,295.86,50.11,4,Clothing,Online,2023-02-02 18:00:00,Order delivered successfully
+ID_1787,206.42,40.1,8,Books,Wholesale,,Customer pending approval
+ID_1788,236.38,60.48,16,Books,Wholesale,,Order delivered successfully
+ID_1789,474.17,56.31,10,Books,Online,2023-02-02 21:00:00,Customer pending approval
+ID_1790,85.14,57.38,12,Electronics,Retail,2023-02-02 22:00:00,Order delivered successfully
+ID_1791,297.25,42.11,12,Books,Online,2023-02-02 23:00:00,Customer pending approval
+ID_1792,257.89 $,17.7,5,Books,Online,2023-02-03 00:00:00,Customer pending approval
+ID_1793,309.61,66.46,16,Books,Online,,Customer pending approval
+ID_1794,18.87,42.82,1,Home,Online,2023-02-03 02:00:00,Order delivered successfully
+ID_1795,437.34,9999.0,9,Electronics,Online,2023-02-03 03:00:00,Item returned back
+ID_1796,466.74,60.4,12,Home,Retail,2023-02-03 04:00:00,Customer pending approval
+ID_1797,,44.12,5,Electronics,Wholesale,,Customer pending approval
+ID_1798,351.36,65.9,3,Clothing,Wholesale,,Order delivered successfully
+ID_1799,,59.26,5,Home,Retail,2023-02-03 07:00:00,Customer pending approval
+ID_1800,356.55,60.25,2,Clothing,Wholesale,,Customer pending approval
+ID_1801,84.74,29.51,14,Books,Wholesale,,Customer pending approval
+ID_1802,,68.18,2,Clothing,Wholesale,,Customer pending approval
+ID_1803,307.29,53.92,13,Clothing,Retail,2023-02-03 11:00:00,Item returned back
+ID_1804,,44.46,7,Clothing,Retail,2023-02-03 12:00:00,Item returned back
+ID_1805,370.86,52.15,10,Clothing,Wholesale,,Customer pending approval
+ID_1806,467.84,23.36,13,Electronics,Wholesale,,Customer pending approval
+ID_1807,463.53,56.13,16,Home,Wholesale,,Customer pending approval
+ID_1808,230.91,34.56,14,Electronics,Online,2023-02-03 16:00:00,Item returned back
+ID_1809,65.49,29.71,11,Electronics,Online,2023-02-03 17:00:00,Item returned back
+ID_1810,492.57,27.16,10,Electronics,Online,2023-02-03 18:00:00,Order delivered successfully
+ID_1811,421.06,66.69,6,,Retail,2023-02-03 19:00:00,Order delivered successfully
+ID_1812,,40.56,4,Electronics,Wholesale,,Customer pending approval
+ID_1813,461.21,73.01,1,Home,Retail,2023-02-03 21:00:00,Customer pending approval
+ID_1814,436.25,41.96,7,Electronics,Retail,2023-02-03 22:00:00,Item returned back
+ID_1815,264.23,24.39,9,,Retail,2023-02-03 23:00:00,Customer pending approval
+ID_1816,299.72,33.25,8,,Wholesale,,Customer pending approval
+ID_1817,205.51,68.54,5,Books,Online,2023-02-04 01:00:00,Item returned back
+ID_1818,36.83,47.66,19,Home,Wholesale,,Item returned back
+ID_1819,174.25 $,41.78,10,Home,Wholesale,,Item returned back
+ID_1820,403.4,52.4,11,Home,Retail,2023-02-04 04:00:00,Item returned back
+ID_1821,12.27,57.53,15,Home,Retail,2023-02-04 05:00:00,Order delivered successfully
+ID_1822,173.41,66.76,6,Electronics,Retail,2023-02-04 06:00:00,Item returned back
+ID_1823,205.1,71.73,15,Clothing,Online,2023-02-04 07:00:00,
+ID_1824,273.32,44.6,5,,Online,2023-02-04 08:00:00,Customer pending approval
+ID_1825,460.73,30.11,19,,Online,2023-02-04 09:00:00,Customer pending approval
+ID_1826,179.71,43.8,19,Home,Wholesale,,Customer pending approval
+ID_1827,180.01,53.9,10,Clothing,Retail,2023-02-04 11:00:00,Order delivered successfully
+ID_1828,,35.54,12,Books,Wholesale,,Item returned back
+ID_1829,231.59,35.64,4,Books,Online,2023-02-04 13:00:00,Item returned back
+ID_1830,120.06,55.16,18,Books,Retail,,Order delivered successfully
+ID_1831,231.7,49.27,16,Electronics,Online,2023-02-04 15:00:00,Item returned back
+ID_1832,79.02,50.49,8,Home,Retail,2023-02-04 16:00:00,Customer pending approval
+ID_1833,96.43,38.62,4,Electronics,Retail,2023-02-04 17:00:00,Order delivered successfully
+ID_1834,254.2,46.54,12,Books,Wholesale,,Item returned back
+ID_1835,215.27,36.14,2,Electronics,Wholesale,,Order delivered successfully
+ID_1836,458.27 $,63.35,4,Electronics,Online,2023-02-04 20:00:00,
+ID_1837,187.57,65.53,5,Electronics,Wholesale,,Item returned back
+ID_1838,294.49,22.31,3,Home,Wholesale,,Customer pending approval
+ID_1839,319.81,36.06,9,Books,Wholesale,,Item returned back
+ID_1840,16.42,27.55,18,Books,Retail,2023-02-05 00:00:00,Item returned back
+ID_1841,,40.25,11,Home,Wholesale,,Customer pending approval
+ID_1842,97.24,48.75,3,Electronics,Online,2023-02-05 02:00:00,Item returned back
+ID_1843,480.92,28.26,2,Electronics,Retail,,Item returned back
+ID_1844,82.84,36.17,9,Clothing,Retail,2023-02-05 04:00:00,Item returned back
+ID_1845,,34.94,14,Clothing,Wholesale,,Order delivered successfully
+ID_1846,51.82,53.11,4,Clothing,Retail,2023-02-05 06:00:00,Order delivered successfully
+ID_1847,,51.04,9,Home,Online,2023-02-05 07:00:00,Order delivered successfully
+ID_1848,256.08,39.17,13,Books,Online,2023-02-05 08:00:00,Item returned back
+ID_1849,301.74,52.65,18,Clothing,Retail,2023-02-05 09:00:00,Customer pending approval
+ID_1850,42.87,41.8,15,Books,Wholesale,,Order delivered successfully
+ID_1851,377.48,9999.0,10,Books,Wholesale,,Customer pending approval
+ID_1852,112.85,75.1,16,Books,Retail,,Item returned back
+ID_1853,450.05,70.11,12,Home,Online,2023-02-05 13:00:00,Order delivered successfully
+ID_1854,110.52,30.51,5,Home,Retail,2023-02-05 14:00:00,Item returned back
+ID_1855,103.44,62.45,2,Home,Wholesale,,Customer pending approval
+ID_1856,27.91,62.17,10,Home,Wholesale,,Order delivered successfully
+ID_1857,241.31,32.78,1,Clothing,Retail,2023-02-05 17:00:00,Order delivered successfully
+ID_1858,286.77,62.28,7,Electronics,Online,2023-02-05 18:00:00,Order delivered successfully
+ID_1859,42.2,73.07,17,Electronics,Retail,2023-02-05 19:00:00,Order delivered successfully
+ID_1860,390.01,33.16,16,Electronics,Online,2023-02-05 20:00:00,Customer pending approval
+ID_1861,232.11,36.24,3,Clothing,Online,2023-02-05 21:00:00,Order delivered successfully
+ID_1862,,65.26,14,Electronics,Retail,2023-02-05 22:00:00,Item returned back
+ID_1863,225.97,54.07,10,Clothing,Retail,2023-02-05 23:00:00,Order delivered successfully
+ID_1864,206.37 $,58.27,7,Clothing,Online,2023-02-06 00:00:00,
+ID_1865,284.22,55.11,17,Clothing,Online,2023-02-06 01:00:00,Order delivered successfully
+ID_1866,86.07,55.86,6,Electronics,Online,2023-02-06 02:00:00,Customer pending approval
+ID_1867,99.14,30.1,4,Books,Online,2023-02-06 03:00:00,Customer pending approval
+ID_1868,432.27,65.71,17,Electronics,Wholesale,,Item returned back
+ID_1869,473.6,67.54,9,Electronics,Retail,2023-02-06 05:00:00,Order delivered successfully
+ID_1870,192.92,46.56,4,Home,Online,2023-02-06 06:00:00,Order delivered successfully
+ID_1871,142.66,49.35,7,Clothing,Retail,2023-02-06 07:00:00,Order delivered successfully
+ID_1872,325.56 $,27.03,2,Books,Online,2023-02-06 08:00:00,Item returned back
+ID_1873,210.28,57.71,17,,Retail,2023-02-06 09:00:00,Item returned back
+ID_1874,22.44,58.58,8,,Retail,2023-02-06 10:00:00,Customer pending approval
+ID_1875,86.51,49.07,15,Books,Online,2023-02-06 11:00:00,
+ID_1876,,66.87,15,Clothing,Online,2023-02-06 12:00:00,Customer pending approval
+ID_1877,332.87,44.99,8,Electronics,Retail,2023-02-06 13:00:00,Item returned back
+ID_1878,,58.47,16,Clothing,Retail,,Item returned back
+ID_1879,118.77,34.71,19,Clothing,Retail,2023-02-06 15:00:00,Item returned back
+ID_1880,123.23,49.65,11,Home,Wholesale,,Customer pending approval
+ID_1881,339.23,47.38,2,Clothing,Online,2023-02-06 17:00:00,
+ID_1882,19.66,53.38,17,Electronics,Wholesale,,Customer pending approval
+ID_1883,61.01,44.46,16,Books,Wholesale,,Customer pending approval
+ID_1884,401.96,48.03,15,Clothing,Online,2023-02-06 20:00:00,Order delivered successfully
+ID_1885,97.49,62.39,13,Books,Online,2023-02-06 21:00:00,Order delivered successfully
+ID_1886,329.85,43.45,15,Clothing,Wholesale,,Order delivered successfully
+ID_1887,126.71,25.9,4,,Online,2023-02-06 23:00:00,Customer pending approval
+ID_1888,58.73 $,76.24,16,,Retail,2023-02-07 00:00:00,Order delivered successfully
+ID_1889,129.15,70.72,12,,Retail,2023-02-07 01:00:00,Order delivered successfully
+ID_1890,363.91,30.62,4,,Wholesale,,Order delivered successfully
+ID_1891,,60.35,3,Clothing,Wholesale,,Item returned back
+ID_1892,416.81,42.46,17,Clothing,Online,2023-02-07 04:00:00,Customer pending approval
+ID_1893,204.62,53.95,18,Home,Online,2023-02-07 05:00:00,Order delivered successfully
+ID_1894,337.36,54.41,18,,Wholesale,,Item returned back
+ID_1895,110.44,46.48,17,,Wholesale,,Item returned back
+ID_1896,153.64,38.24,12,Books,Retail,2023-02-07 08:00:00,Item returned back
+ID_1897,449.2,39.64,4,Books,Retail,2023-02-07 09:00:00,Order delivered successfully
+ID_1898,16.37,36.26,12,Home,Online,2023-02-07 10:00:00,Item returned back
+ID_1899,51.9,37.52,15,,Retail,2023-02-07 11:00:00,Customer pending approval
+ID_1900,111.86,48.99,16,Electronics,Online,2023-02-07 12:00:00,Item returned back
+ID_1901,23.0,39.26,5,Clothing,Online,2023-02-07 13:00:00,Item returned back
+ID_1902,,60.23,15,,Online,2023-02-07 14:00:00,Item returned back
+ID_1903,295.69,72.31,17,Clothing,Retail,2023-02-07 15:00:00,Item returned back
+ID_1904,216.5,41.3,18,Books,Wholesale,,Customer pending approval
+ID_1905,447.41,53.59,5,,Wholesale,,Order delivered successfully
+ID_1906,,57.5,13,Electronics,Retail,2023-02-07 18:00:00,Customer pending approval
+ID_1907,177.49,57.08,19,Books,Wholesale,,Customer pending approval
+ID_1908,137.12,51.14,13,Home,Online,,Order delivered successfully
+ID_1909,196.05,9999.0,18,Home,Wholesale,,Item returned back
+ID_1910,299.24,57.23,14,Electronics,Retail,2023-02-07 22:00:00,Order delivered successfully
+ID_1911,141.35,31.44,4,Electronics,Wholesale,,Order delivered successfully
+ID_1912,315.83 $,63.04,4,Clothing,Online,2023-02-08 00:00:00,Customer pending approval
+ID_1913,210.61,63.31,19,,Online,2023-02-08 01:00:00,Order delivered successfully
+ID_1914,280.5,38.55,13,Clothing,Retail,2023-02-08 02:00:00,Item returned back
+ID_1915,223.7,50.57,12,Clothing,Retail,2023-02-08 03:00:00,Customer pending approval
+ID_1916,154.29,60.25,7,Home,Retail,2023-02-08 04:00:00,Item returned back
+ID_1917,,46.86,12,Home,Online,2023-02-08 05:00:00,Customer pending approval
+ID_1918,384.17,66.09,4,,Wholesale,,Item returned back
+ID_1919,78.66 $,85.46,2,Home,Wholesale,,Order delivered successfully
+ID_1920,435.55,38.21,2,Clothing,Retail,2023-02-08 08:00:00,Order delivered successfully
+ID_1921,248.84,29.28,5,Home,Wholesale,,Order delivered successfully
+ID_1922,448.33 $,54.56,10,Books,Wholesale,,Item returned back
+ID_1923,401.93,60.82,10,Home,Retail,2023-02-08 11:00:00,Customer pending approval
+ID_1924,218.35,46.54,9,Home,Retail,2023-02-08 12:00:00,Customer pending approval
+ID_1925,21.01,71.8,13,Home,Online,2023-02-08 13:00:00,Customer pending approval
+ID_1926,141.65,29.92,7,Electronics,Online,,Order delivered successfully
+ID_1927,275.4,60.39,5,Books,Online,2023-02-08 15:00:00,
+ID_1928,320.4,40.91,10,,Online,2023-02-08 16:00:00,Customer pending approval
+ID_1929,136.36,75.79,10,Clothing,Wholesale,,Item returned back
+ID_1930,78.28,79.89,6,Clothing,Wholesale,,Customer pending approval
+ID_1931,419.12,38.5,19,Home,Online,2023-02-08 19:00:00,Order delivered successfully
+ID_1932,492.36,41.76,8,Electronics,Online,2023-02-08 20:00:00,Item returned back
+ID_1933,267.59 $,62.89,1,Clothing,Retail,2023-02-08 21:00:00,Customer pending approval
+ID_1934,94.12,44.19,17,Clothing,Wholesale,,Customer pending approval
+ID_1935,,49.32,7,Home,Wholesale,,Customer pending approval
+ID_1936,19.01,50.38,14,Home,Online,2023-02-09 00:00:00,Customer pending approval
+ID_1937,458.01,21.2,17,Clothing,Wholesale,,Order delivered successfully
+ID_1938,67.7,49.79,9,Clothing,Retail,2023-02-09 02:00:00,Customer pending approval
+ID_1939,292.49,39.65,17,,Retail,2023-02-09 03:00:00,Customer pending approval
+ID_1940,144.29,42.6,5,Electronics,Wholesale,,Order delivered successfully
+ID_1941,281.55,71.65,8,Books,Online,2023-02-09 05:00:00,Customer pending approval
+ID_1942,,31.15,6,Clothing,Wholesale,,Item returned back
+ID_1943,416.57,62.2,11,Books,Retail,2023-02-09 07:00:00,Item returned back
+ID_1944,111.15,45.82,19,Books,Online,2023-02-09 08:00:00,Customer pending approval
+ID_1945,15.39,45.8,4,Clothing,Wholesale,,
+ID_1946,77.07,61.86,18,Home,Online,2023-02-09 10:00:00,Order delivered successfully
+ID_1947,451.01,55.1,1,Clothing,Online,2023-02-09 11:00:00,Order delivered successfully
+ID_1948,438.21,58.56,13,Home,Retail,2023-02-09 12:00:00,Customer pending approval
+ID_1949,,64.52,14,Clothing,Online,2023-02-09 13:00:00,Customer pending approval
+ID_1950,,45.03,1,Clothing,Wholesale,,Item returned back
+ID_1951,335.87,40.82,11,Clothing,Online,2023-02-09 15:00:00,Order delivered successfully
+ID_1952,95.93,33.72,17,Electronics,Online,2023-02-09 16:00:00,Customer pending approval
+ID_1953,458.06,37.62,4,Home,Wholesale,,Customer pending approval
+ID_1954,215.2,94.24,12,Electronics,Retail,2023-02-09 18:00:00,Customer pending approval
+ID_1955,197.74,68.67,10,,Retail,2023-02-09 19:00:00,Order delivered successfully
+ID_1956,264.27,29.73,6,Books,Wholesale,,Order delivered successfully
+ID_1957,,30.16,1,Electronics,Wholesale,,Item returned back
+ID_1958,91.48 $,57.23,7,Home,Retail,2023-02-09 22:00:00,Order delivered successfully
+ID_1959,371.64,58.21,16,Clothing,Online,2023-02-09 23:00:00,Customer pending approval
+ID_1960,50.57,58.23,14,Electronics,Wholesale,,Item returned back
+ID_1961,305.54,46.18,6,Books,Online,2023-02-10 01:00:00,Order delivered successfully
+ID_1962,130.22,48.12,5,Electronics,Wholesale,,Order delivered successfully
+ID_1963,200.75,54.92,18,Home,Retail,2023-02-10 03:00:00,Order delivered successfully
+ID_1964,,51.29,15,Electronics,Online,2023-02-10 04:00:00,Order delivered successfully
+ID_1965,184.28,16.71,6,Books,Online,2023-02-10 05:00:00,Customer pending approval
+ID_1966,362.33,46.55,19,Books,Wholesale,,
+ID_1967,,37.23,1,Home,Online,2023-02-10 07:00:00,Customer pending approval
+ID_1968,287.54,52.63,1,Books,Wholesale,,Customer pending approval
+ID_1969,243.26,94.78,13,Clothing,Retail,2023-02-10 09:00:00,Customer pending approval
+ID_1970,335.2,55.51,3,Books,Online,2023-02-10 10:00:00,Item returned back
+ID_1971,469.05,45.3,10,Clothing,Wholesale,,Customer pending approval
+ID_1972,,63.83,-5,Electronics,Online,2023-02-10 12:00:00,Order delivered successfully
+ID_1973,115.32,57.24,9,Clothing,Wholesale,,Item returned back
+ID_1974,25.28,56.3,8,Clothing,Wholesale,,Order delivered successfully
+ID_1975,,59.1,3,Electronics,Wholesale,,Customer pending approval
+ID_1976,301.59,80.85,13,Books,Retail,2023-02-10 16:00:00,Order delivered successfully
+ID_1977,35.2,33.04,6,Clothing,Online,2023-02-10 17:00:00,Item returned back
+ID_1978,253.22,57.1,13,Books,Retail,2023-02-10 18:00:00,
+ID_1979,302.45,36.1,12,Electronics,Wholesale,,Order delivered successfully
+ID_1980,173.78,58.33,13,Home,Wholesale,,Order delivered successfully
+ID_1981,387.75,36.22,2,Books,Retail,2023-02-10 21:00:00,Order delivered successfully
+ID_1982,62.23,43.74,16,Books,Retail,2023-02-10 22:00:00,Item returned back
+ID_1983,46.82,45.57,6,Home,Online,2023-02-10 23:00:00,Customer pending approval
+ID_1984,366.81,64.64,19,Home,Wholesale,,Order delivered successfully
+ID_1985,252.79,63.78,13,Electronics,Retail,2023-02-11 01:00:00,Customer pending approval
+ID_1986,347.32,31.31,17,Books,Wholesale,,Item returned back
+ID_1987,223.07,50.82,9,Books,Wholesale,,
+ID_1988,,39.36,17,Electronics,Online,2023-02-11 04:00:00,Order delivered successfully
+ID_1989,411.36,31.12,2,Books,Online,2023-02-11 05:00:00,Item returned back
+ID_1990,,46.74,19,Clothing,Online,2023-02-11 06:00:00,Order delivered successfully
+ID_1991,350.4,45.37,19,Clothing,Retail,2023-02-11 07:00:00,Customer pending approval
+ID_1992,143.35,86.4,7,Clothing,Wholesale,,Item returned back
+ID_1993,299.21,9999.0,10,Books,Retail,2023-02-11 09:00:00,Item returned back
+ID_1994,186.88,29.34,10,Clothing,Retail,2023-02-11 10:00:00,Order delivered successfully
+ID_1995,54.88,41.53,9,Clothing,Online,2023-02-11 11:00:00,Item returned back
+ID_1996,459.48,65.32,17,Electronics,Wholesale,,Order delivered successfully
+ID_1997,77.04,81.33,15,Electronics,Wholesale,,Order delivered successfully
+ID_1998,475.62,26.21,2,Home,Online,,
+ID_1999,228.54,21.8,4,Home,Wholesale,,
+ID_2000,100.72,78.06,19,Home,Online,2023-02-11 16:00:00,Customer pending approval
+ID_2001,,55.84,17,,Retail,2023-02-11 17:00:00,Customer pending approval
+ID_2002,437.74,36.98,5,Electronics,Retail,2023-02-11 18:00:00,Order delivered successfully
+ID_2003,368.79,58.02,7,Electronics,Online,2023-02-11 19:00:00,Customer pending approval
+ID_2004,405.21,10.46,18,Electronics,Retail,2023-02-11 20:00:00,Order delivered successfully
+ID_2005,332.8,50.05,7,Clothing,Retail,2023-02-11 21:00:00,Customer pending approval
+ID_2006,,54.92,17,Clothing,Online,2023-02-11 22:00:00,Item returned back
+ID_2007,426.11,63.86,7,Home,Retail,2023-02-11 23:00:00,Order delivered successfully
+ID_2008,132.34,34.79,4,Clothing,Wholesale,,Order delivered successfully
+ID_2009,249.82,51.29,8,Books,Retail,2023-02-12 01:00:00,Order delivered successfully
+ID_2010,,36.12,13,Electronics,Online,2023-02-12 02:00:00,
+ID_2011,493.96,53.83,4,Home,Wholesale,,Order delivered successfully
+ID_2012,472.59,36.57,6,Home,Wholesale,,
+ID_2013,29.32 $,43.88,5,Books,Retail,,Item returned back
+ID_2014,355.73,35.06,12,Clothing,Wholesale,,Item returned back
+ID_2015,463.37,59.77,4,Home,Online,2023-02-12 07:00:00,Customer pending approval
+ID_2016,98.48,62.88,9,Clothing,Wholesale,,Order delivered successfully
+ID_2017,288.29,46.48,4,Clothing,Retail,2023-02-12 09:00:00,Customer pending approval
+ID_2018,458.59,50.57,19,Books,Retail,2023-02-12 10:00:00,Customer pending approval
+ID_2019,26.63,28.27,14,Home,Wholesale,,Item returned back
+ID_2020,351.74,45.5,5,Clothing,Online,2023-02-12 12:00:00,Customer pending approval
+ID_2021,,49.25,18,Clothing,Online,2023-02-12 13:00:00,Item returned back
+ID_2022,462.95,89.31,10,Books,Retail,2023-02-12 14:00:00,Customer pending approval
+ID_2023,485.82,33.32,19,Books,Retail,2023-02-12 15:00:00,Order delivered successfully
+ID_2024,472.69,71.96,12,Clothing,Online,2023-02-12 16:00:00,Customer pending approval
+ID_2025,242.36,64.95,18,Books,Wholesale,,
+ID_2026,432.4,54.21,17,Clothing,Wholesale,,Item returned back
+ID_2027,423.83,76.38,11,Home,Wholesale,,Item returned back
+ID_2028,166.36,55.58,3,Electronics,Wholesale,,
+ID_2029,416.17,55.84,17,Books,Online,2023-02-12 21:00:00,Customer pending approval
+ID_2030,28.13 $,49.2,1,Electronics,Retail,2023-02-12 22:00:00,Item returned back
+ID_2031,302.17,68.35,15,Clothing,Retail,2023-02-12 23:00:00,Order delivered successfully
+ID_2032,122.7,66.45,9,Clothing,Wholesale,,Order delivered successfully
+ID_2033,69.08,40.61,15,,Online,2023-02-13 01:00:00,Customer pending approval
+ID_2034,47.71,30.21,3,,Online,2023-02-13 02:00:00,Customer pending approval
+ID_2035,351.18,46.96,19,Clothing,Wholesale,,Item returned back
+ID_2036,176.54,38.0,13,Books,Wholesale,,Customer pending approval
+ID_2037,365.14 $,49.05,12,Home,Wholesale,,Customer pending approval
+ID_2038,42.02,68.56,1,Home,Retail,2023-02-13 06:00:00,Item returned back
+ID_2039,164.49,43.14,17,Books,Wholesale,,Item returned back
+ID_2040,274.35,49.36,13,Home,Retail,2023-02-13 08:00:00,Customer pending approval
+ID_2041,397.45,50.87,1,Electronics,Online,2023-02-13 09:00:00,Order delivered successfully
+ID_2042,166.19,62.73,10,Clothing,Online,2023-02-13 10:00:00,Customer pending approval
+ID_2043,316.69,16.3,15,Clothing,Retail,2023-02-13 11:00:00,Order delivered successfully
+ID_2044,444.13,40.9,7,,Retail,2023-02-13 12:00:00,Order delivered successfully
+ID_2045,311.77,53.17,18,Electronics,Retail,2023-02-13 13:00:00,Order delivered successfully
+ID_2046,124.15,68.0,16,Electronics,Retail,2023-02-13 14:00:00,Item returned back
+ID_2047,21.96,42.62,14,Electronics,Wholesale,,Item returned back
+ID_2048,436.35,21.85,18,Books,Online,2023-02-13 16:00:00,Item returned back
+ID_2049,20.42,59.3,7,Electronics,Wholesale,,Customer pending approval
+ID_2050,438.6,40.47,17,Home,Retail,2023-02-13 18:00:00,Item returned back
+ID_2051,269.18,32.16,18,Books,Wholesale,,Item returned back
+ID_2052,470.14,40.63,12,Books,Wholesale,,
+ID_2053,401.4,47.23,8,Books,Online,2023-02-13 21:00:00,Customer pending approval
+ID_2054,498.99,40.93,2,Electronics,Wholesale,,Order delivered successfully
+ID_2055,181.85,16.92,7,Books,Online,2023-02-13 23:00:00,
+ID_2056,385.92,63.46,4,Electronics,Retail,2023-02-14 00:00:00,Customer pending approval
+ID_2057,,69.12,18,Electronics,Wholesale,,Item returned back
+ID_2058,245.14,59.77,6,Books,Retail,2023-02-14 02:00:00,
+ID_2059,317.48,32.93,9,Clothing,Online,2023-02-14 03:00:00,
+ID_2060,438.1,46.98,9,,Retail,2023-02-14 04:00:00,Customer pending approval
+ID_2061,492.2,49.9,14,Books,Retail,2023-02-14 05:00:00,Item returned back
+ID_2062,386.45,58.98,8,Clothing,Online,2023-02-14 06:00:00,Item returned back
+ID_2063,214.71,60.03,19,Home,Retail,2023-02-14 07:00:00,Item returned back
+ID_2064,216.46,38.99,3,Home,Retail,2023-02-14 08:00:00,Item returned back
+ID_2065,371.42 $,51.23,18,,Retail,2023-02-14 09:00:00,Customer pending approval
+ID_2066,127.0,56.86,5,Clothing,Wholesale,,Item returned back
+ID_2067,64.13,71.84,14,Home,Retail,2023-02-14 11:00:00,Order delivered successfully
+ID_2068,183.76,60.57,4,Books,Online,2023-02-14 12:00:00,Order delivered successfully
+ID_2069,150.75,61.84,7,Clothing,Wholesale,,Customer pending approval
+ID_2070,155.19,51.26,12,Home,Wholesale,,Item returned back
+ID_2071,124.47,71.16,2,,Online,2023-02-14 15:00:00,Item returned back
+ID_2072,30.63,56.15,11,Books,Retail,2023-02-14 16:00:00,Item returned back
+ID_2073,,37.08,14,Electronics,Wholesale,,Item returned back
+ID_2074,493.98,71.05,16,Books,Wholesale,,Customer pending approval
+ID_2075,219.61,60.47,6,Electronics,Wholesale,,Item returned back
+ID_2076,198.32,43.35,4,Home,Retail,2023-02-14 20:00:00,Customer pending approval
+ID_2077,343.03,42.81,15,Electronics,Wholesale,,Item returned back
+ID_2078,116.94,54.45,1,Home,Online,2023-02-14 22:00:00,Item returned back
+ID_2079,475.48,56.95,7,Home,Retail,2023-02-14 23:00:00,Order delivered successfully
+ID_2080,395.31,52.96,12,Clothing,Online,2023-02-15 00:00:00,Customer pending approval
+ID_2081,53.81,54.67,10,Electronics,Online,2023-02-15 01:00:00,Order delivered successfully
+ID_2082,214.61,75.5,5,,Wholesale,,Customer pending approval
+ID_2083,440.77,66.07,12,Electronics,Wholesale,,Item returned back
+ID_2084,472.92,52.86,18,Books,Wholesale,,Item returned back
+ID_2085,239.03,64.12,10,Clothing,Online,2023-02-15 05:00:00,Customer pending approval
+ID_2086,310.57,34.51,6,Clothing,Retail,2023-02-15 06:00:00,
+ID_2087,91.85,55.97,12,Clothing,Wholesale,,Customer pending approval
+ID_2088,,77.14,7,Books,Wholesale,,Customer pending approval
+ID_2089,123.52,46.73,18,Electronics,Online,2023-02-15 09:00:00,
+ID_2090,471.94,37.29,2,Electronics,Retail,2023-02-15 10:00:00,Order delivered successfully
+ID_2091,328.33,40.22,10,Electronics,Online,2023-02-15 11:00:00,Customer pending approval
+ID_2092,307.79,33.66,15,,Wholesale,,Order delivered successfully
+ID_2093,261.22,38.23,12,Clothing,Online,2023-02-15 13:00:00,Order delivered successfully
+ID_2094,123.03,44.44,17,Home,Wholesale,,Customer pending approval
+ID_2095,96.5,28.92,4,Books,Retail,2023-02-15 15:00:00,Order delivered successfully
+ID_2096,118.04,50.23,7,Books,Online,2023-02-15 16:00:00,Item returned back
+ID_2097,101.35,63.53,9,Clothing,Wholesale,,Item returned back
+ID_2098,392.0,36.38,19,Home,Wholesale,,Item returned back
+ID_2099,181.56,72.79,7,Electronics,Wholesale,,Item returned back
+ID_2100,38.34,9999.0,2,Clothing,Wholesale,,Order delivered successfully
+ID_2101,484.86,65.46,6,Books,Online,2023-02-15 21:00:00,
+ID_2102,443.06,40.13,18,Books,Wholesale,,Customer pending approval
+ID_2103,464.6,62.82,6,Books,Online,2023-02-15 23:00:00,Item returned back
+ID_2104,497.5,33.62,13,Electronics,Wholesale,,Customer pending approval
+ID_2105,95.21,63.35,19,Books,Online,2023-02-16 01:00:00,Customer pending approval
+ID_2106,204.16,52.58,2,Electronics,Online,2023-02-16 02:00:00,Item returned back
+ID_2107,,58.3,12,Electronics,Wholesale,,Item returned back
+ID_2108,351.05,32.37,15,Electronics,Wholesale,,Order delivered successfully
+ID_2109,85.41,36.57,14,Clothing,Wholesale,,Customer pending approval
+ID_2110,409.76,58.96,6,Electronics,Wholesale,,Item returned back
+ID_2111,119.98,35.77,18,Home,Retail,2023-02-16 07:00:00,Order delivered successfully
+ID_2112,119.67,56.95,5,Books,Wholesale,,Item returned back
+ID_2113,,29.49,18,Clothing,Wholesale,,Item returned back
+ID_2114,300.54,62.72,3,Books,Wholesale,,Item returned back
+ID_2115,294.24,31.51,3,Electronics,Online,2023-02-16 11:00:00,Customer pending approval
+ID_2116,,58.28,10,Clothing,Wholesale,,Item returned back
+ID_2117,439.96,59.38,19,,Online,2023-02-16 13:00:00,
+ID_2118,140.14,39.55,3,Electronics,Online,2023-02-16 14:00:00,
+ID_2119,,58.73,12,Books,Online,2023-02-16 15:00:00,Item returned back
+ID_2120,445.49,53.91,16,Home,Online,2023-02-16 16:00:00,Order delivered successfully
+ID_2121,478.27,41.92,17,Electronics,Retail,2023-02-16 17:00:00,Order delivered successfully
+ID_2122,432.44,34.87,7,,Wholesale,,
+ID_2123,406.66,20.56,13,Electronics,Online,2023-02-16 19:00:00,Customer pending approval
+ID_2124,331.07,55.24,2,Clothing,Wholesale,,Customer pending approval
+ID_2125,279.92,26.53,4,,Online,2023-02-16 21:00:00,
+ID_2126,52.62,51.43,10,Clothing,Retail,2023-02-16 22:00:00,Order delivered successfully
+ID_2127,210.14,46.05,7,Electronics,Online,2023-02-16 23:00:00,
+ID_2128,192.62,60.19,17,Electronics,Wholesale,,Item returned back
+ID_2129,137.28,45.47,6,Books,Wholesale,,Item returned back
+ID_2130,,45.06,19,Home,Retail,2023-02-17 02:00:00,Customer pending approval
+ID_2131,252.98,60.98,5,Home,Wholesale,,Order delivered successfully
+ID_2132,49.71,55.03,10,Home,Wholesale,,Order delivered successfully
+ID_2133,117.89 $,54.74,9,Electronics,Online,2023-02-17 05:00:00,Order delivered successfully
+ID_2134,344.8,57.04,13,Electronics,Wholesale,,Item returned back
+ID_2135,47.3,26.97,19,Electronics,Online,2023-02-17 07:00:00,Customer pending approval
+ID_2136,427.09,61.35,6,Clothing,Retail,2023-02-17 08:00:00,Order delivered successfully
+ID_2137,252.62,59.19,4,Clothing,Wholesale,,Customer pending approval
+ID_2138,245.49,34.75,3,Books,Online,2023-02-17 10:00:00,Order delivered successfully
+ID_2139,300.28,46.34,3,Electronics,Wholesale,,
+ID_2140,414.09,49.41,4,Home,Online,2023-02-17 12:00:00,Order delivered successfully
+ID_2141,180.43,47.98,5,Home,Retail,2023-02-17 13:00:00,Customer pending approval
+ID_2142,,55.01,8,,Online,2023-02-17 14:00:00,Order delivered successfully
+ID_2143,287.21,71.47,16,Home,Wholesale,,Order delivered successfully
+ID_2144,,66.23,3,Books,Online,2023-02-17 16:00:00,Customer pending approval
+ID_2145,440.53,30.32,12,,Wholesale,,Customer pending approval
+ID_2146,400.74,59.33,8,Home,Retail,2023-02-17 18:00:00,Item returned back
+ID_2147,332.64,69.93,13,,Online,2023-02-17 19:00:00,Customer pending approval
+ID_2148,426.79,55.8,4,Clothing,Wholesale,,Order delivered successfully
+ID_2149,434.97,66.36,14,,Wholesale,,Order delivered successfully
+ID_2150,,80.18,14,Clothing,Wholesale,,Customer pending approval
+ID_2151,420.14,65.36,13,Home,Online,,Item returned back
+ID_2152,351.76,53.74,6,,Online,2023-02-18 00:00:00,Customer pending approval
+ID_2153,,65.68,17,Books,Online,2023-02-18 01:00:00,Order delivered successfully
+ID_2154,313.12,52.17,4,Electronics,Retail,2023-02-18 02:00:00,Order delivered successfully
+ID_2155,378.83,50.36,8,Electronics,Wholesale,,Item returned back
+ID_2156,87.72,44.73,17,Electronics,Wholesale,,Customer pending approval
+ID_2157,441.63,73.45,3,Home,Retail,2023-02-18 05:00:00,Order delivered successfully
+ID_2158,,37.72,-5,Books,Retail,2023-02-18 06:00:00,Order delivered successfully
+ID_2159,24.33,72.99,9,Clothing,Online,2023-02-18 07:00:00,Order delivered successfully
+ID_2160,414.65,57.5,2,Electronics,Online,2023-02-18 08:00:00,Customer pending approval
+ID_2161,73.15,29.01,13,Home,Online,2023-02-18 09:00:00,Customer pending approval
+ID_2162,174.21,55.51,2,Clothing,Online,2023-02-18 10:00:00,Item returned back
+ID_2163,374.32,18.5,11,Electronics,Online,2023-02-18 11:00:00,Order delivered successfully
+ID_2164,88.77,59.38,15,Clothing,Online,2023-02-18 12:00:00,Order delivered successfully
+ID_2165,,63.28,11,Electronics,Retail,2023-02-18 13:00:00,Item returned back
+ID_2166,417.75,41.11,3,Clothing,Retail,2023-02-18 14:00:00,Order delivered successfully
+ID_2167,258.66,51.85,3,Clothing,Retail,2023-02-18 15:00:00,Item returned back
+ID_2168,,79.31,12,Books,Wholesale,,Item returned back
+ID_2169,150.65,42.41,5,Books,Wholesale,,
+ID_2170,312.29,34.12,7,,Online,2023-02-18 18:00:00,Customer pending approval
+ID_2171,490.78,72.22,7,Home,Retail,2023-02-18 19:00:00,Customer pending approval
+ID_2172,319.59,79.44,13,Books,Wholesale,,Customer pending approval
+ID_2173,,50.06,9,Clothing,Wholesale,,Customer pending approval
+ID_2174,320.66,65.17,13,,Retail,2023-02-18 22:00:00,Order delivered successfully
+ID_2175,274.59,70.12,12,Books,Wholesale,,Item returned back
+ID_2176,392.12,38.86,13,Electronics,Wholesale,,Item returned back
+ID_2177,62.42,42.72,10,Books,Retail,2023-02-19 01:00:00,Order delivered successfully
+ID_2178,382.9,68.46,1,Books,Wholesale,,Customer pending approval
+ID_2179,275.22,75.28,8,Clothing,Retail,2023-02-19 03:00:00,Item returned back
+ID_2180,481.87,58.44,16,Books,Wholesale,,Order delivered successfully
+ID_2181,177.52,36.8,13,,Retail,2023-02-19 05:00:00,Order delivered successfully
+ID_2182,319.98,79.81,3,Books,Wholesale,,Customer pending approval
+ID_2183,466.69,42.04,3,Books,Wholesale,,
+ID_2184,60.23,44.97,5,Home,Retail,2023-02-19 08:00:00,Item returned back
+ID_2185,469.24,55.14,11,Books,Wholesale,,Item returned back
+ID_2186,347.06 $,73.31,7,Clothing,Retail,2023-02-19 10:00:00,Order delivered successfully
+ID_2187,43.24,62.81,10,Clothing,Retail,2023-02-19 11:00:00,Item returned back
+ID_2188,157.47,56.22,10,Electronics,Wholesale,,Order delivered successfully
+ID_2189,357.0,56.95,2,Electronics,Online,2023-02-19 13:00:00,Item returned back
+ID_2190,43.0,50.65,3,Home,Wholesale,,Customer pending approval
+ID_2191,295.26,58.37,8,Clothing,Online,2023-02-19 15:00:00,Item returned back
+ID_2192,179.48,12.06,11,Clothing,Online,,Customer pending approval
+ID_2193,314.25,45.55,13,Clothing,Wholesale,,Customer pending approval
+ID_2194,32.41,53.62,7,Home,Online,2023-02-19 18:00:00,Order delivered successfully
+ID_2195,437.05,32.73,13,Clothing,Retail,2023-02-19 19:00:00,Customer pending approval
+ID_2196,487.01,55.79,2,Electronics,Retail,2023-02-19 20:00:00,Item returned back
+ID_2197,484.75,46.93,6,Home,Online,2023-02-19 21:00:00,Item returned back
+ID_2198,377.33,76.33,9,Electronics,Retail,2023-02-19 22:00:00,Customer pending approval
+ID_2199,73.74,73.6,2,Electronics,Wholesale,,Order delivered successfully
+ID_2200,381.55,43.01,18,Home,Retail,2023-02-20 00:00:00,Customer pending approval
+ID_2201,22.05,47.74,16,Books,Online,2023-02-20 01:00:00,Item returned back
+ID_2202,20.84 $,48.89,12,Books,Wholesale,,Item returned back
+ID_2203,168.57,43.23,7,Electronics,Retail,2023-02-20 03:00:00,Customer pending approval
+ID_2204,,52.93,7,Books,Wholesale,,Customer pending approval
+ID_2205,387.5,38.63,17,,Online,2023-02-20 05:00:00,Customer pending approval
+ID_2206,344.81,33.04,13,Home,Retail,2023-02-20 06:00:00,Item returned back
+ID_2207,228.49,59.34,11,Electronics,Wholesale,,Item returned back
+ID_2208,144.08,59.44,6,Clothing,Wholesale,,Item returned back
+ID_2209,498.59,37.94,-5,Books,Retail,2023-02-20 09:00:00,Order delivered successfully
+ID_2210,,63.43,6,Clothing,Wholesale,,Item returned back
+ID_2211,,9999.0,6,Books,Wholesale,,Item returned back
+ID_2212,90.18,53.8,2,Electronics,Online,2023-02-20 12:00:00,Order delivered successfully
+ID_2213,,62.31,15,Clothing,Online,2023-02-20 13:00:00,Order delivered successfully
+ID_2214,349.9,49.5,17,Home,Online,2023-02-20 14:00:00,Order delivered successfully
+ID_2215,118.18,56.82,8,Electronics,Online,2023-02-20 15:00:00,Order delivered successfully
+ID_2216,50.37,42.25,5,Clothing,Online,2023-02-20 16:00:00,Order delivered successfully
+ID_2217,343.44,47.05,17,Clothing,Online,2023-02-20 17:00:00,Order delivered successfully
+ID_2218,330.71,46.91,1,Books,Retail,2023-02-20 18:00:00,Customer pending approval
+ID_2219,143.9,38.8,18,Electronics,Online,2023-02-20 19:00:00,Customer pending approval
+ID_2220,475.92,47.35,15,Electronics,Wholesale,,Customer pending approval
+ID_2221,,26.77,5,Electronics,Retail,2023-02-20 21:00:00,Customer pending approval
+ID_2222,221.84,42.63,7,Electronics,Wholesale,,
+ID_2223,472.37,45.73,18,,Online,2023-02-20 23:00:00,Order delivered successfully
+ID_2224,215.67,46.16,6,,Online,2023-02-21 00:00:00,Item returned back
+ID_2225,322.88,46.38,5,Electronics,Wholesale,,Order delivered successfully
+ID_2226,,49.07,19,Books,Wholesale,,
+ID_2227,,57.19,10,Home,Wholesale,,Item returned back
+ID_2228,,63.12,15,Home,Retail,2023-02-21 04:00:00,Customer pending approval
+ID_2229,,40.25,10,,Online,,Item returned back
+ID_2230,448.11,31.95,16,Electronics,Wholesale,,Item returned back
+ID_2231,122.68,34.37,12,Home,Online,2023-02-21 07:00:00,Order delivered successfully
+ID_2232,114.42,42.69,18,Electronics,Wholesale,,Order delivered successfully
+ID_2233,25.26,44.72,1,Electronics,Online,,Order delivered successfully
+ID_2234,329.32,38.45,16,Clothing,Retail,2023-02-21 10:00:00,Customer pending approval
+ID_2235,190.58,30.56,6,,Online,2023-02-21 11:00:00,Item returned back
+ID_2236,433.54,43.16,3,Clothing,Wholesale,,Item returned back
+ID_2237,241.87,52.72,2,Home,Online,2023-02-21 13:00:00,Customer pending approval
+ID_2238,484.41 $,58.93,2,Books,Retail,2023-02-21 14:00:00,Item returned back
+ID_2239,100.91,41.64,13,Clothing,Retail,2023-02-21 15:00:00,Item returned back
+ID_2240,435.63,43.81,9,Books,Online,2023-02-21 16:00:00,Order delivered successfully
+ID_2241,390.53 $,36.1,16,Home,Wholesale,,Customer pending approval
+ID_2242,387.75,49.53,5,Electronics,Retail,2023-02-21 18:00:00,Order delivered successfully
+ID_2243,423.94,37.27,7,Home,Retail,2023-02-21 19:00:00,
+ID_2244,382.9,58.6,13,Books,Online,2023-02-21 20:00:00,Order delivered successfully
+ID_2245,316.85,23.21,13,Home,Retail,2023-02-21 21:00:00,Item returned back
+ID_2246,74.31,44.61,7,,Retail,2023-02-21 22:00:00,
+ID_2247,,54.52,10,Home,Wholesale,,Customer pending approval
+ID_2248,461.22,52.76,15,Electronics,Wholesale,,Order delivered successfully
+ID_2249,312.16,90.4,6,Clothing,Wholesale,,Customer pending approval
+ID_2250,400.3,55.25,5,Books,Online,2023-02-22 02:00:00,Item returned back
+ID_2251,245.95,34.94,2,Electronics,Retail,2023-02-22 03:00:00,Item returned back
+ID_2252,,48.57,15,Electronics,Online,2023-02-22 04:00:00,
+ID_2253,71.34,23.36,16,Home,Retail,2023-02-22 05:00:00,Order delivered successfully
+ID_2254,345.93,48.79,19,Clothing,Retail,2023-02-22 06:00:00,Customer pending approval
+ID_2255,220.85,37.5,9,Electronics,Retail,2023-02-22 07:00:00,Order delivered successfully
+ID_2256,108.26,63.73,19,Clothing,Wholesale,,
+ID_2257,250.88,41.76,7,Clothing,Online,,Customer pending approval
+ID_2258,,48.25,4,Home,Online,2023-02-22 10:00:00,Item returned back
+ID_2259,295.17 $,40.47,3,Electronics,Retail,2023-02-22 11:00:00,
+ID_2260,141.81,76.08,11,Home,Online,2023-02-22 12:00:00,Customer pending approval
+ID_2261,400.8,45.18,1,Books,Wholesale,,Order delivered successfully
+ID_2262,162.08,77.49,6,Books,Online,2023-02-22 14:00:00,Customer pending approval
+ID_2263,233.06,62.21,11,Electronics,Retail,2023-02-22 15:00:00,Item returned back
+ID_2264,15.69,57.23,1,Clothing,Wholesale,,Customer pending approval
+ID_2265,45.5,55.53,7,Electronics,Wholesale,,Item returned back
+ID_2266,202.32 $,55.91,6,Electronics,Retail,2023-02-22 18:00:00,Order delivered successfully
+ID_2267,245.17,21.08,14,Books,Online,2023-02-22 19:00:00,Item returned back
+ID_2268,304.01,45.82,2,Books,Retail,2023-02-22 20:00:00,Customer pending approval
+ID_2269,152.91,62.68,4,Clothing,Online,2023-02-22 21:00:00,Item returned back
+ID_2270,350.54,49.27,11,Clothing,Online,2023-02-22 22:00:00,Item returned back
+ID_2271,,28.92,15,Electronics,Wholesale,,Customer pending approval
+ID_2272,392.13,49.21,18,,Retail,2023-02-23 00:00:00,Item returned back
+ID_2273,29.41,75.56,1,Electronics,Wholesale,,Customer pending approval
+ID_2274,245.45,68.7,3,Clothing,Retail,2023-02-23 02:00:00,Order delivered successfully
+ID_2275,61.42,49.07,3,Home,Retail,2023-02-23 03:00:00,Item returned back
+ID_2276,128.6,64.27,7,Books,Wholesale,,Order delivered successfully
+ID_2277,,44.5,1,Clothing,Retail,2023-02-23 05:00:00,Item returned back
+ID_2278,79.82,24.44,11,Clothing,Retail,2023-02-23 06:00:00,Item returned back
+ID_2279,254.46,36.13,6,Home,Online,2023-02-23 07:00:00,Order delivered successfully
+ID_2280,,73.44,3,Clothing,Retail,2023-02-23 08:00:00,Item returned back
+ID_2281,354.21,45.89,19,,Retail,2023-02-23 09:00:00,Item returned back
+ID_2282,284.23,46.35,2,Clothing,Wholesale,,Order delivered successfully
+ID_2283,14.79,45.5,18,Clothing,Wholesale,,Item returned back
+ID_2284,169.97,78.56,12,Clothing,Retail,2023-02-23 12:00:00,Customer pending approval
+ID_2285,263.68,74.39,10,Clothing,Online,2023-02-23 13:00:00,Item returned back
+ID_2286,53.05,83.28,5,Clothing,Online,2023-02-23 14:00:00,Item returned back
+ID_2287,181.81,47.61,9,Clothing,Wholesale,,Item returned back
+ID_2288,26.27,54.43,2,Books,Retail,2023-02-23 16:00:00,Order delivered successfully
+ID_2289,,27.25,2,Clothing,Retail,2023-02-23 17:00:00,Customer pending approval
+ID_2290,204.49,72.15,6,Books,Online,2023-02-23 18:00:00,Customer pending approval
+ID_2291,75.03,32.48,10,Books,Online,2023-02-23 19:00:00,Item returned back
+ID_2292,288.1,53.25,18,Electronics,Online,2023-02-23 20:00:00,Order delivered successfully
+ID_2293,,33.54,12,Electronics,Wholesale,,Order delivered successfully
+ID_2294,402.29,41.17,4,Books,Retail,2023-02-23 22:00:00,Customer pending approval
+ID_2295,108.07,37.44,17,Books,Wholesale,,Order delivered successfully
+ID_2296,92.07,40.88,15,Clothing,Retail,2023-02-24 00:00:00,Item returned back
+ID_2297,61.24,41.91,6,,Wholesale,,Item returned back
+ID_2298,321.85,41.78,16,Home,Retail,2023-02-24 02:00:00,Order delivered successfully
+ID_2299,356.17,62.5,17,Electronics,Online,2023-02-24 03:00:00,Item returned back
+ID_2300,25.48,33.43,3,Books,Online,2023-02-24 04:00:00,Customer pending approval
+ID_2301,468.74,53.31,10,Books,Online,2023-02-24 05:00:00,Item returned back
+ID_2302,,68.27,5,Clothing,Wholesale,,Order delivered successfully
+ID_2303,275.24,42.3,14,Clothing,Online,2023-02-24 07:00:00,Customer pending approval
+ID_2304,357.44,39.23,13,Electronics,Retail,2023-02-24 08:00:00,Item returned back
+ID_2305,,46.54,6,Clothing,Wholesale,,Customer pending approval
+ID_2306,359.9,67.7,12,Home,Retail,2023-02-24 10:00:00,Order delivered successfully
+ID_2307,402.85,52.91,8,Home,Wholesale,,Item returned back
+ID_2308,176.33,42.03,5,Clothing,Retail,2023-02-24 12:00:00,
+ID_2309,409.26,57.26,15,Home,Retail,2023-02-24 13:00:00,Customer pending approval
+ID_2310,,33.47,16,Home,Wholesale,,Item returned back
+ID_2311,,60.22,1,Electronics,Wholesale,,Item returned back
+ID_2312,278.32,56.13,16,Home,Online,2023-02-24 16:00:00,Item returned back
+ID_2313,410.48,45.38,5,Books,Online,2023-02-24 17:00:00,Item returned back
+ID_2314,231.64,37.42,3,Books,Retail,2023-02-24 18:00:00,Order delivered successfully
+ID_2315,325.35,36.7,15,Electronics,Retail,2023-02-24 19:00:00,
+ID_2316,267.94,58.02,13,Clothing,Retail,2023-02-24 20:00:00,Customer pending approval
+ID_2317,368.48,68.43,16,Electronics,Wholesale,,Order delivered successfully
+ID_2318,50.0,40.44,11,Clothing,Wholesale,,Customer pending approval
+ID_2319,39.57,56.88,2,Clothing,Online,2023-02-24 23:00:00,Customer pending approval
+ID_2320,131.08,18.69,6,Clothing,Retail,2023-02-25 00:00:00,Customer pending approval
+ID_2321,88.18,41.23,6,Clothing,Online,2023-02-25 01:00:00,Order delivered successfully
+ID_2322,437.17,49.53,14,Clothing,Wholesale,,Order delivered successfully
+ID_2323,117.41,36.35,11,,Wholesale,,Order delivered successfully
+ID_2324,488.17,35.95,8,Clothing,Wholesale,,Item returned back
+ID_2325,175.08,39.98,8,,Online,2023-02-25 05:00:00,Customer pending approval
+ID_2326,99.24,54.38,1,Home,Wholesale,,Order delivered successfully
+ID_2327,396.95,47.19,7,Clothing,Retail,2023-02-25 07:00:00,Customer pending approval
+ID_2328,332.77 $,16.43,6,Home,Online,2023-02-25 08:00:00,Order delivered successfully
+ID_2329,254.12,18.19,8,,Wholesale,,Order delivered successfully
+ID_2330,282.13,40.9,19,Electronics,Online,2023-02-25 10:00:00,Order delivered successfully
+ID_2331,362.41,56.87,8,,Online,2023-02-25 11:00:00,Customer pending approval
+ID_2332,121.94,8.79,14,Clothing,Wholesale,,Item returned back
+ID_2333,498.2,42.5,18,Clothing,Wholesale,,Order delivered successfully
+ID_2334,487.65,42.11,16,Books,Online,,Order delivered successfully
+ID_2335,328.66,70.83,9,Clothing,Online,2023-02-25 15:00:00,Order delivered successfully
+ID_2336,107.78,44.22,15,Home,Wholesale,,Item returned back
+ID_2337,343.31,55.74,10,Books,Retail,2023-02-25 17:00:00,Customer pending approval
+ID_2338,45.38,52.12,16,Home,Online,2023-02-25 18:00:00,Customer pending approval
+ID_2339,,18.04,4,Electronics,Online,2023-02-25 19:00:00,Customer pending approval
+ID_2340,136.26 $,61.52,13,Home,Retail,2023-02-25 20:00:00,Customer pending approval
+ID_2341,236.69 $,53.23,5,Electronics,Wholesale,,Order delivered successfully
+ID_2342,435.45,57.62,7,Home,Wholesale,,Item returned back
+ID_2343,,108.89,9,Electronics,Retail,2023-02-25 23:00:00,Order delivered successfully
+ID_2344,373.93,18.74,8,Clothing,Wholesale,,Item returned back
+ID_2345,218.49 $,75.87,16,,Wholesale,,Customer pending approval
+ID_2346,179.51 $,45.69,6,,Online,2023-02-26 02:00:00,Item returned back
+ID_2347,191.81,54.31,16,Home,Online,2023-02-26 03:00:00,Order delivered successfully
+ID_2348,493.95,49.32,6,,Online,2023-02-26 04:00:00,Order delivered successfully
+ID_2349,29.65,43.64,14,Clothing,Retail,2023-02-26 05:00:00,Customer pending approval
+ID_2350,,41.45,1,Electronics,Wholesale,,Order delivered successfully
+ID_2351,293.55,54.94,9,Books,Wholesale,,Order delivered successfully
+ID_2352,224.92,27.24,13,Home,Online,2023-02-26 08:00:00,Item returned back
+ID_2353,365.38,61.26,19,Books,Online,2023-02-26 09:00:00,Order delivered successfully
+ID_2354,248.47,43.76,17,Home,Retail,2023-02-26 10:00:00,Customer pending approval
+ID_2355,437.98,33.05,11,,Wholesale,,Customer pending approval
+ID_2356,451.34,43.25,8,Books,Retail,2023-02-26 12:00:00,
+ID_2357,216.64,68.86,5,Clothing,Wholesale,,Customer pending approval
+ID_2358,145.65,41.97,10,Electronics,Retail,2023-02-26 14:00:00,Item returned back
+ID_2359,300.25,55.38,7,Home,Online,2023-02-26 15:00:00,Item returned back
+ID_2360,457.06,39.04,10,Home,Retail,,Order delivered successfully
+ID_2361,113.22,61.37,4,Clothing,Retail,2023-02-26 17:00:00,Order delivered successfully
+ID_2362,315.25,60.28,9,Clothing,Online,2023-02-26 18:00:00,Item returned back
+ID_2363,,77.73,14,Electronics,Wholesale,,Customer pending approval
+ID_2364,,47.37,2,Books,Wholesale,,Order delivered successfully
+ID_2365,74.47,60.03,9,Home,Online,2023-02-26 21:00:00,Order delivered successfully
+ID_2366,360.75,51.47,1,Home,Retail,2023-02-26 22:00:00,Customer pending approval
+ID_2367,455.43,69.44,10,Electronics,Retail,2023-02-26 23:00:00,Order delivered successfully
+ID_2368,,39.22,10,,Retail,2023-02-27 00:00:00,Customer pending approval
+ID_2369,,61.18,3,Clothing,Wholesale,,Customer pending approval
+ID_2370,,47.08,6,Clothing,Retail,2023-02-27 02:00:00,Customer pending approval
+ID_2371,,49.04,6,Books,Wholesale,,
+ID_2372,428.65,51.38,2,Electronics,Retail,2023-02-27 04:00:00,Customer pending approval
+ID_2373,251.22,53.78,18,Books,Online,2023-02-27 05:00:00,Item returned back
+ID_2374,131.14,48.26,2,Electronics,Online,2023-02-27 06:00:00,Customer pending approval
+ID_2375,436.67,53.22,12,Home,Wholesale,,Item returned back
+ID_2376,228.2,73.67,5,Electronics,Wholesale,,Customer pending approval
+ID_2377,262.26,64.78,7,Electronics,Online,2023-02-27 09:00:00,Order delivered successfully
+ID_2378,186.02,63.04,16,Home,Online,2023-02-27 10:00:00,Item returned back
+ID_2379,300.55,43.17,1,Electronics,Retail,2023-02-27 11:00:00,Order delivered successfully
+ID_2380,90.13,36.66,1,Books,Online,2023-02-27 12:00:00,Customer pending approval
+ID_2381,,64.33,17,Clothing,Wholesale,,Customer pending approval
+ID_2382,,63.14,1,Clothing,Online,2023-02-27 14:00:00,Order delivered successfully
+ID_2383,136.49,72.09,13,Books,Wholesale,,Customer pending approval
+ID_2384,331.8,40.94,9,Home,Wholesale,,Order delivered successfully
+ID_2385,169.34,46.56,15,Electronics,Retail,2023-02-27 17:00:00,Customer pending approval
+ID_2386,,25.41,3,Books,Retail,2023-02-27 18:00:00,Customer pending approval
+ID_2387,74.13,44.11,14,Clothing,Retail,2023-02-27 19:00:00,Item returned back
+ID_2388,485.21,64.95,11,Clothing,Retail,2023-02-27 20:00:00,Order delivered successfully
+ID_2389,232.36,43.0,12,,Online,2023-02-27 21:00:00,Customer pending approval
+ID_2390,125.66,59.61,13,Clothing,Retail,2023-02-27 22:00:00,Order delivered successfully
+ID_2391,46.01,47.14,13,Books,Online,2023-02-27 23:00:00,Item returned back
+ID_2392,93.18,54.86,1,Clothing,Retail,,Order delivered successfully
+ID_2393,264.69,32.78,10,Books,Retail,2023-02-28 01:00:00,
+ID_2394,175.13,51.28,3,Electronics,Wholesale,,Order delivered successfully
+ID_2395,416.15,5.13,4,Electronics,Online,2023-02-28 03:00:00,Order delivered successfully
+ID_2396,221.13,47.2,16,Electronics,Wholesale,,
+ID_2397,131.87,25.54,8,Electronics,Retail,2023-02-28 05:00:00,Customer pending approval
+ID_2398,312.4,68.09,16,,Online,2023-02-28 06:00:00,Customer pending approval
+ID_2399,356.32,61.66,17,Home,Retail,2023-02-28 07:00:00,Customer pending approval
+ID_2400,91.85,57.0,19,Books,Wholesale,,Order delivered successfully
+ID_2401,92.13,72.82,15,Home,Online,2023-02-28 09:00:00,
+ID_2402,27.97,35.77,16,Clothing,Wholesale,,
+ID_2403,370.84,76.21,15,,Retail,2023-02-28 11:00:00,Order delivered successfully
+ID_2404,335.26,63.98,2,Home,Retail,2023-02-28 12:00:00,Order delivered successfully
+ID_2405,242.57,46.45,11,Home,Retail,2023-02-28 13:00:00,Customer pending approval
+ID_2406,423.64,67.03,1,Clothing,Online,2023-02-28 14:00:00,Item returned back
+ID_2407,404.78,33.41,15,Clothing,Wholesale,,Order delivered successfully
+ID_2408,296.82,37.63,19,Books,Wholesale,,Order delivered successfully
+ID_2409,435.45,40.87,4,Electronics,Retail,2023-02-28 17:00:00,Order delivered successfully
+ID_2410,110.86,42.07,11,Electronics,Wholesale,,Order delivered successfully
+ID_2411,,34.15,5,,Online,2023-02-28 19:00:00,Item returned back
+ID_2412,142.18,68.35,3,Home,Retail,2023-02-28 20:00:00,Customer pending approval
+ID_2413,,46.12,13,Clothing,Retail,2023-02-28 21:00:00,Order delivered successfully
+ID_2414,270.27,55.29,-5,,Retail,2023-02-28 22:00:00,Customer pending approval
+ID_2415,468.94,41.44,11,Electronics,Online,,Order delivered successfully
+ID_2416,29.28,22.69,18,Electronics,Retail,2023-03-01 00:00:00,Item returned back
+ID_2417,69.83,54.05,2,Home,Retail,2023-03-01 01:00:00,Customer pending approval
+ID_2418,231.58,21.32,7,Electronics,Retail,2023-03-01 02:00:00,Item returned back
+ID_2419,,48.97,9,Clothing,Retail,2023-03-01 03:00:00,
+ID_2420,,29.48,10,Books,Wholesale,,Item returned back
+ID_2421,258.55,79.81,18,Home,Retail,2023-03-01 05:00:00,Item returned back
+ID_2422,30.37,63.67,7,Clothing,Online,2023-03-01 06:00:00,Order delivered successfully
+ID_2423,,51.59,7,,Retail,2023-03-01 07:00:00,
+ID_2424,493.45,68.96,3,Electronics,Retail,2023-03-01 08:00:00,Customer pending approval
+ID_2425,482.91,37.31,12,Clothing,Wholesale,,Order delivered successfully
+ID_2426,12.42,9999.0,7,Home,Retail,2023-03-01 10:00:00,Customer pending approval
+ID_2427,476.39,53.0,17,Clothing,Wholesale,,Item returned back
+ID_2428,323.17,53.96,1,Books,Online,2023-03-01 12:00:00,Item returned back
+ID_2429,435.28,69.09,5,Clothing,Wholesale,,Customer pending approval
+ID_2430,232.82,60.99,16,Clothing,Retail,2023-03-01 14:00:00,Order delivered successfully
+ID_2431,,54.33,15,,Online,2023-03-01 15:00:00,Order delivered successfully
+ID_2432,249.53,25.18,2,Clothing,Retail,2023-03-01 16:00:00,Item returned back
+ID_2433,336.76,35.6,9,,Wholesale,,Customer pending approval
+ID_2434,,48.16,7,Electronics,Online,2023-03-01 18:00:00,
+ID_2435,24.69,51.4,4,Home,Online,,Item returned back
+ID_2436,160.89,33.05,18,Electronics,Wholesale,,Order delivered successfully
+ID_2437,,86.18,4,,Wholesale,,Customer pending approval
+ID_2438,108.91,72.75,13,Books,Online,2023-03-01 22:00:00,Item returned back
+ID_2439,339.98,59.03,1,Books,Online,2023-03-01 23:00:00,Order delivered successfully
+ID_2440,485.26,51.08,3,Books,Wholesale,,Item returned back
+ID_2441,,46.82,16,Home,Retail,2023-03-02 01:00:00,Item returned back
+ID_2442,339.58 $,35.72,4,Home,Online,2023-03-02 02:00:00,Order delivered successfully
+ID_2443,227.44,51.16,16,Home,Wholesale,,Order delivered successfully
+ID_2444,435.39,53.87,19,Books,Retail,2023-03-02 04:00:00,Customer pending approval
+ID_2445,96.8,31.37,1,Home,Online,2023-03-02 05:00:00,Item returned back
+ID_2446,349.39,55.01,5,Clothing,Online,2023-03-02 06:00:00,Customer pending approval
+ID_2447,420.68,47.67,19,Electronics,Wholesale,,Order delivered successfully
+ID_2448,472.86,21.38,11,Books,Retail,2023-03-02 08:00:00,Order delivered successfully
+ID_2449,344.79,37.09,13,Electronics,Online,2023-03-02 09:00:00,Item returned back
+ID_2450,253.62,43.8,5,,Retail,2023-03-02 10:00:00,Customer pending approval
+ID_2451,,78.32,4,Home,Retail,2023-03-02 11:00:00,Customer pending approval
+ID_2452,435.76,58.35,4,Electronics,Online,2023-03-02 12:00:00,Item returned back
+ID_2453,289.6,29.97,4,Clothing,Retail,2023-03-02 13:00:00,
+ID_2454,24.89,57.29,4,Clothing,Online,2023-03-02 14:00:00,Customer pending approval
+ID_2455,466.16,26.79,18,Electronics,Retail,2023-03-02 15:00:00,Order delivered successfully
+ID_2456,347.87,66.24,18,Books,Online,2023-03-02 16:00:00,Order delivered successfully
+ID_2457,341.49,42.93,16,Electronics,Wholesale,,Item returned back
+ID_2458,115.68,48.6,9,Books,Online,,Customer pending approval
+ID_2459,,69.89,18,Home,Online,2023-03-02 19:00:00,Customer pending approval
+ID_2460,,30.69,2,Books,Online,2023-03-02 20:00:00,Customer pending approval
+ID_2461,329.1,29.04,4,Home,Retail,2023-03-02 21:00:00,Order delivered successfully
+ID_2462,62.23,41.25,12,Electronics,Wholesale,,Order delivered successfully
+ID_2463,332.34,65.58,7,Home,Retail,2023-03-02 23:00:00,Customer pending approval
+ID_2464,499.71,27.21,15,Clothing,Retail,2023-03-03 00:00:00,Customer pending approval
+ID_2465,,7.52,7,Home,Online,2023-03-03 01:00:00,Item returned back
+ID_2466,488.82,43.23,17,Books,Retail,,Item returned back
+ID_2467,209.38,58.28,16,Books,Online,2023-03-03 03:00:00,Customer pending approval
+ID_2468,436.67,68.0,19,Books,Wholesale,,
+ID_2469,,43.05,9,Home,Retail,2023-03-03 05:00:00,Order delivered successfully
+ID_2470,287.84,43.83,14,Books,Retail,2023-03-03 06:00:00,Customer pending approval
+ID_2471,,67.31,17,Books,Retail,2023-03-03 07:00:00,Item returned back
+ID_2472,440.47,21.95,5,Clothing,Online,2023-03-03 08:00:00,Order delivered successfully
+ID_2473,208.03,44.17,2,Home,Online,2023-03-03 09:00:00,
+ID_2474,170.25,52.86,16,Clothing,Retail,,Item returned back
+ID_2475,337.12,56.74,14,Books,Retail,2023-03-03 11:00:00,Order delivered successfully
+ID_2476,405.84,42.35,14,Books,Wholesale,,Item returned back
+ID_2477,383.52,50.52,1,Books,Wholesale,,Customer pending approval
+ID_2478,400.93,12.68,3,Home,Wholesale,,Item returned back
+ID_2479,223.44,40.13,7,Electronics,Wholesale,,Order delivered successfully
+ID_2480,410.74,56.8,15,Books,Wholesale,,Order delivered successfully
+ID_2481,68.9,35.27,19,Books,Online,2023-03-03 17:00:00,Order delivered successfully
+ID_2482,276.8,50.88,2,Books,Wholesale,,Item returned back
+ID_2483,12.82,56.7,19,Books,Wholesale,,Customer pending approval
+ID_2484,169.05,44.86,9,Home,Retail,2023-03-03 20:00:00,
+ID_2485,189.57,52.56,19,Electronics,Online,2023-03-03 21:00:00,Customer pending approval
+ID_2486,204.12,35.56,5,Electronics,Wholesale,,Order delivered successfully
+ID_2487,350.78 $,46.9,18,,Wholesale,,Customer pending approval
+ID_2488,,59.15,16,Books,Wholesale,,Customer pending approval
+ID_2489,229.86,52.35,4,Books,Retail,2023-03-04 01:00:00,
+ID_2490,,41.2,12,Electronics,Retail,2023-03-04 02:00:00,Order delivered successfully
+ID_2491,192.89,53.36,7,Electronics,Retail,2023-03-04 03:00:00,
+ID_2492,121.36,60.72,14,Books,Wholesale,,Item returned back
+ID_2493,,19.25,12,Books,Retail,2023-03-04 05:00:00,
+ID_2494,305.69,67.39,3,Clothing,Wholesale,,
+ID_2495,337.42,44.96,5,Clothing,Online,2023-03-04 07:00:00,Order delivered successfully
+ID_2496,313.55,56.38,17,Clothing,Wholesale,,Customer pending approval
+ID_2497,237.11,67.96,10,Electronics,Retail,2023-03-04 09:00:00,Order delivered successfully
+ID_2498,,29.42,10,Home,Online,2023-03-04 10:00:00,Customer pending approval
+ID_2499,433.03,39.36,11,Books,Wholesale,,Order delivered successfully
+ID_2500,264.35 $,45.67,17,Clothing,Online,2023-03-04 12:00:00,Order delivered successfully
+ID_2501,244.8,38.24,5,Home,Online,2023-03-04 13:00:00,Order delivered successfully
+ID_2502,22.56,76.02,13,Books,Online,2023-03-04 14:00:00,Customer pending approval
+ID_2503,177.21,37.15,10,Home,Wholesale,,Item returned back
+ID_2504,196.3,41.67,9,,Retail,2023-03-04 16:00:00,Customer pending approval
+ID_2505,205.42,53.07,17,Electronics,Wholesale,,Customer pending approval
+ID_2506,294.28,31.97,1,Electronics,Retail,2023-03-04 18:00:00,Order delivered successfully
+ID_2507,271.47,44.06,4,Clothing,Wholesale,,Order delivered successfully
+ID_2508,307.87 $,54.76,4,Books,Wholesale,,Item returned back
+ID_2509,384.79,45.01,18,Electronics,Wholesale,,Item returned back
+ID_2510,408.36,48.6,9,Clothing,Retail,2023-03-04 22:00:00,Order delivered successfully
+ID_2511,361.88,42.06,18,Clothing,Wholesale,,Item returned back
+ID_2512,,27.28,14,Clothing,Online,2023-03-05 00:00:00,Item returned back
+ID_2513,18.93,54.82,15,Clothing,Wholesale,,Order delivered successfully
+ID_2514,105.93,76.32,6,Electronics,Online,2023-03-05 02:00:00,Customer pending approval
+ID_2515,13.71,50.28,10,,Retail,2023-03-05 03:00:00,Item returned back
+ID_2516,327.26,53.38,15,Electronics,Retail,2023-03-05 04:00:00,Order delivered successfully
+ID_2517,450.03,60.39,4,Electronics,Wholesale,,Item returned back
+ID_2518,129.31,30.96,18,Clothing,Wholesale,,Item returned back
+ID_2519,464.25,75.54,18,Electronics,Wholesale,,Order delivered successfully
+ID_2520,39.53,53.03,17,Books,Online,,Item returned back
+ID_2521,,74.48,12,Books,Retail,2023-03-05 09:00:00,Item returned back
+ID_2522,182.30 $,39.0,7,Home,Online,2023-03-05 10:00:00,Item returned back
+ID_2523,59.7,77.27,16,Books,Online,,Customer pending approval
+ID_2524,248.08,61.63,11,Electronics,Wholesale,,Customer pending approval
+ID_2525,135.82 $,58.3,14,Electronics,Wholesale,,Item returned back
+ID_2526,149.59,53.51,3,Books,Online,2023-03-05 14:00:00,Order delivered successfully
+ID_2527,160.57,46.27,19,Clothing,Online,2023-03-05 15:00:00,
+ID_2528,403.48,9999.0,18,Clothing,Wholesale,,Item returned back
+ID_2529,274.19,52.11,10,Electronics,Wholesale,,Customer pending approval
+ID_2530,162.54 $,20.49,6,Clothing,Online,2023-03-05 18:00:00,Customer pending approval
+ID_2531,309.06,33.24,13,Home,Wholesale,,Customer pending approval
+ID_2532,360.91,47.21,10,,Wholesale,,Item returned back
+ID_2533,143.59 $,54.65,18,Books,Online,2023-03-05 21:00:00,Item returned back
+ID_2534,212.64,49.15,16,,Online,2023-03-05 22:00:00,Order delivered successfully
+ID_2535,69.72,68.28,6,Clothing,Retail,2023-03-05 23:00:00,
+ID_2536,,20.73,13,Electronics,Online,2023-03-06 00:00:00,
+ID_2537,343.75,52.15,4,Books,Wholesale,,Customer pending approval
+ID_2538,98.9,22.73,14,Home,Online,2023-03-06 02:00:00,Customer pending approval
+ID_2539,267.33,61.4,1,Books,Online,2023-03-06 03:00:00,Customer pending approval
+ID_2540,,48.58,5,,Online,2023-03-06 04:00:00,Customer pending approval
+ID_2541,62.37,56.29,8,Home,Retail,2023-03-06 05:00:00,Customer pending approval
+ID_2542,287.98,37.04,12,Electronics,Retail,2023-03-06 06:00:00,Order delivered successfully
+ID_2543,135.72 $,69.19,2,Books,Wholesale,,Order delivered successfully
+ID_2544,481.83,65.63,12,Books,Retail,2023-03-06 08:00:00,Order delivered successfully
+ID_2545,,58.75,5,Books,Online,2023-03-06 09:00:00,
+ID_2546,404.94,48.06,5,,Retail,2023-03-06 10:00:00,
+ID_2547,,58.7,13,Books,Online,2023-03-06 11:00:00,Customer pending approval
+ID_2548,31.27,39.4,9,Home,Retail,2023-03-06 12:00:00,Order delivered successfully
+ID_2549,320.24,62.83,10,Electronics,Retail,,Customer pending approval
+ID_2550,476.19,74.74,1,Electronics,Retail,2023-03-06 14:00:00,Order delivered successfully
+ID_2551,304.79 $,66.06,3,Home,Online,2023-03-06 15:00:00,Customer pending approval
+ID_2552,411.4,39.06,18,Clothing,Retail,2023-03-06 16:00:00,Item returned back
+ID_2553,,55.42,12,Home,Online,2023-03-06 17:00:00,Order delivered successfully
+ID_2554,121.76,30.6,3,Electronics,Online,2023-03-06 18:00:00,Item returned back
+ID_2555,,58.59,9,Home,Wholesale,,Order delivered successfully
+ID_2556,309.38,56.76,2,Clothing,Retail,2023-03-06 20:00:00,Customer pending approval
+ID_2557,211.4,21.95,3,Electronics,Wholesale,,Customer pending approval
+ID_2558,421.53,32.57,14,Clothing,Wholesale,,
+ID_2559,451.01,45.75,4,Home,Online,2023-03-06 23:00:00,Customer pending approval
+ID_2560,183.18,45.49,19,Books,Retail,2023-03-07 00:00:00,
+ID_2561,126.07,31.86,13,,Online,2023-03-07 01:00:00,Customer pending approval
+ID_2562,392.46,55.83,7,Clothing,Online,2023-03-07 02:00:00,
+ID_2563,144.65,53.77,12,Home,Retail,2023-03-07 03:00:00,Order delivered successfully
+ID_2564,413.08,47.09,3,Books,Online,2023-03-07 04:00:00,Item returned back
+ID_2565,217.63,38.66,-5,Clothing,Retail,2023-03-07 05:00:00,Item returned back
+ID_2566,337.1,65.73,2,Home,Retail,2023-03-07 06:00:00,Customer pending approval
+ID_2567,,74.83,9,Clothing,Online,2023-03-07 07:00:00,Order delivered successfully
+ID_2568,315.69,42.75,12,Clothing,Online,2023-03-07 08:00:00,Item returned back
+ID_2569,231.37 $,40.82,12,Electronics,Wholesale,,Item returned back
+ID_2570,297.44 $,57.37,15,Electronics,Online,2023-03-07 10:00:00,
+ID_2571,92.33,44.63,2,,Retail,2023-03-07 11:00:00,Order delivered successfully
+ID_2572,371.07,47.91,18,Home,Wholesale,,Item returned back
+ID_2573,432.77,61.09,13,Home,Retail,,Customer pending approval
+ID_2574,,21.36,14,Home,Wholesale,,
+ID_2575,56.9,69.77,5,Books,Online,2023-03-07 15:00:00,Customer pending approval
+ID_2576,21.58,51.09,10,Clothing,Online,2023-03-07 16:00:00,Customer pending approval
+ID_2577,,43.83,12,Clothing,Online,2023-03-07 17:00:00,Item returned back
+ID_2578,307.48,48.66,10,Books,Retail,2023-03-07 18:00:00,Order delivered successfully
+ID_2579,277.88,49.44,11,Clothing,Wholesale,,Customer pending approval
+ID_2580,123.65,24.03,2,Clothing,Retail,2023-03-07 20:00:00,Customer pending approval
+ID_2581,201.54,72.42,5,Books,Wholesale,,Item returned back
+ID_2582,301.29,50.62,7,,Online,2023-03-07 22:00:00,Customer pending approval
+ID_2583,253.42,56.65,6,Clothing,Retail,2023-03-07 23:00:00,
+ID_2584,494.01,64.27,3,Books,Online,2023-03-08 00:00:00,Order delivered successfully
+ID_2585,76.86,34.68,13,Home,Retail,2023-03-08 01:00:00,Customer pending approval
+ID_2586,350.62,57.1,3,Electronics,Online,2023-03-08 02:00:00,Item returned back
+ID_2587,,45.99,6,Home,Retail,2023-03-08 03:00:00,Order delivered successfully
+ID_2588,219.82,62.7,11,Clothing,Retail,2023-03-08 04:00:00,Item returned back
+ID_2589,,18.09,17,Electronics,Wholesale,,Order delivered successfully
+ID_2590,349.29,48.51,10,Books,Online,2023-03-08 06:00:00,Order delivered successfully
+ID_2591,495.72,40.96,12,,Wholesale,,Customer pending approval
+ID_2592,72.91,56.48,17,Books,Wholesale,,Customer pending approval
+ID_2593,61.01,57.05,4,Electronics,Online,2023-03-08 09:00:00,Customer pending approval
+ID_2594,364.93,39.39,2,Home,Retail,,Item returned back
+ID_2595,293.41,39.32,11,Clothing,Wholesale,,Customer pending approval
+ID_2596,,48.34,7,Clothing,Online,2023-03-08 12:00:00,Customer pending approval
+ID_2597,,36.55,2,,Retail,,
+ID_2598,51.97,62.63,18,Electronics,Wholesale,,Customer pending approval
+ID_2599,448.15 $,44.46,4,Books,Wholesale,,Customer pending approval
+ID_2600,104.01,6.4,8,Electronics,Wholesale,,Customer pending approval
+ID_2601,168.45,44.38,14,Clothing,Retail,2023-03-08 17:00:00,Customer pending approval
+ID_2602,121.06,34.42,12,Electronics,Wholesale,,Order delivered successfully
+ID_2603,183.95,25.53,18,Clothing,Retail,2023-03-08 19:00:00,Customer pending approval
+ID_2604,44.02,31.44,11,Electronics,Wholesale,,Order delivered successfully
+ID_2605,264.34,51.64,8,Home,Online,2023-03-08 21:00:00,Item returned back
+ID_2606,43.13,69.93,2,Electronics,Wholesale,,Customer pending approval
+ID_2607,402.17,54.7,15,Home,Online,2023-03-08 23:00:00,Customer pending approval
+ID_2608,,40.9,9,,Online,2023-03-09 00:00:00,
+ID_2609,274.61,56.84,19,Electronics,Online,2023-03-09 01:00:00,Order delivered successfully
+ID_2610,441.24,43.11,8,Books,Retail,,Customer pending approval
+ID_2611,328.93 $,39.58,19,Books,Online,2023-03-09 03:00:00,Customer pending approval
+ID_2612,271.15 $,32.68,5,Clothing,Wholesale,,Item returned back
+ID_2613,168.92,23.72,11,Books,Retail,2023-03-09 05:00:00,Order delivered successfully
+ID_2614,173.17,44.15,15,Electronics,Online,2023-03-09 06:00:00,Order delivered successfully
+ID_2615,338.05,52.37,8,Books,Retail,2023-03-09 07:00:00,Item returned back
+ID_2616,,48.55,19,Electronics,Retail,2023-03-09 08:00:00,Order delivered successfully
+ID_2617,334.3,43.76,8,Home,Retail,2023-03-09 09:00:00,Customer pending approval
+ID_2618,283.31,35.81,19,Electronics,Wholesale,,Customer pending approval
+ID_2619,368.02,59.12,18,Clothing,Online,2023-03-09 11:00:00,Item returned back
+ID_2620,237.95,30.24,10,Home,Retail,2023-03-09 12:00:00,Order delivered successfully
+ID_2621,,61.64,7,Clothing,Retail,2023-03-09 13:00:00,Order delivered successfully
+ID_2622,285.53,34.97,9,Clothing,Retail,2023-03-09 14:00:00,Order delivered successfully
+ID_2623,479.24,38.71,1,Clothing,Online,2023-03-09 15:00:00,Item returned back
+ID_2624,95.9,28.0,19,Books,Retail,2023-03-09 16:00:00,Customer pending approval
+ID_2625,348.1,42.48,5,Clothing,Retail,2023-03-09 17:00:00,Item returned back
+ID_2626,108.46,64.63,-5,Home,Wholesale,,Customer pending approval
+ID_2627,272.56,57.73,1,Electronics,Online,2023-03-09 19:00:00,Item returned back
+ID_2628,57.37 $,64.68,15,Clothing,Wholesale,,Customer pending approval
+ID_2629,230.68,57.83,16,Home,Online,2023-03-09 21:00:00,Order delivered successfully
+ID_2630,380.52,33.44,7,Clothing,Online,2023-03-09 22:00:00,Order delivered successfully
+ID_2631,180.31,45.04,12,Electronics,Online,2023-03-09 23:00:00,Order delivered successfully
+ID_2632,335.81,38.3,8,Home,Wholesale,,Item returned back
+ID_2633,,69.96,5,Home,Wholesale,,Item returned back
+ID_2634,464.32,32.05,10,Electronics,Wholesale,,Item returned back
+ID_2635,124.97,63.41,5,Home,Wholesale,,Order delivered successfully
+ID_2636,205.66,63.39,17,Electronics,Retail,2023-03-10 04:00:00,Customer pending approval
+ID_2637,,77.44,5,,Retail,2023-03-10 05:00:00,Order delivered successfully
+ID_2638,496.32,43.85,15,Home,Retail,2023-03-10 06:00:00,Order delivered successfully
+ID_2639,464.23,60.68,-5,Electronics,Online,2023-03-10 07:00:00,Customer pending approval
+ID_2640,274.58,84.22,1,Electronics,Retail,2023-03-10 08:00:00,Customer pending approval
+ID_2641,422.6,40.74,11,Home,Online,2023-03-10 09:00:00,Customer pending approval
+ID_2642,265.27,26.97,1,Home,Wholesale,,Customer pending approval
+ID_2643,315.56 $,21.8,11,Electronics,Online,,Order delivered successfully
+ID_2644,53.67,60.69,18,Books,Online,2023-03-10 12:00:00,Item returned back
+ID_2645,,21.75,18,Electronics,Retail,2023-03-10 13:00:00,Order delivered successfully
+ID_2646,72.58,44.42,16,Home,Wholesale,,Customer pending approval
+ID_2647,414.77,56.56,13,Home,Wholesale,,Item returned back
+ID_2648,393.19,52.78,7,Home,Retail,2023-03-10 16:00:00,Item returned back
+ID_2649,,56.38,1,Electronics,Wholesale,,Order delivered successfully
+ID_2650,27.72,53.33,16,Home,Wholesale,,Order delivered successfully
+ID_2651,158.53,69.18,1,Books,Wholesale,,Order delivered successfully
+ID_2652,138.93,35.72,17,,Retail,2023-03-10 20:00:00,Item returned back
+ID_2653,186.47 $,39.85,6,Books,Wholesale,,Item returned back
+ID_2654,52.94,38.41,2,Electronics,Online,2023-03-10 22:00:00,Item returned back
+ID_2655,469.11,62.45,17,Home,Online,2023-03-10 23:00:00,Customer pending approval
+ID_2656,281.36,63.51,6,Electronics,Wholesale,,Customer pending approval
+ID_2657,159.71,56.77,14,Clothing,Retail,2023-03-11 01:00:00,Order delivered successfully
+ID_2658,204.52,67.75,18,Electronics,Retail,2023-03-11 02:00:00,Item returned back
+ID_2659,229.13,32.33,6,Home,Retail,2023-03-11 03:00:00,Order delivered successfully
+ID_2660,304.29,75.01,10,Clothing,Wholesale,,Item returned back
+ID_2661,262.68,72.85,18,Clothing,Wholesale,,Order delivered successfully
+ID_2662,460.5,61.03,9,Home,Online,2023-03-11 06:00:00,Customer pending approval
+ID_2663,,76.73,8,Home,Retail,,Item returned back
+ID_2664,496.16,25.15,10,Home,Online,2023-03-11 08:00:00,Customer pending approval
+ID_2665,427.2,42.13,17,,Online,2023-03-11 09:00:00,Item returned back
+ID_2666,112.17,38.97,6,Books,Retail,2023-03-11 10:00:00,Order delivered successfully
+ID_2667,465.99,60.82,14,Electronics,Wholesale,,Item returned back
+ID_2668,67.02,34.25,6,Electronics,Wholesale,,Customer pending approval
+ID_2669,410.55,61.36,7,Books,Online,2023-03-11 13:00:00,
+ID_2670,196.51,70.56,12,Home,Online,2023-03-11 14:00:00,Order delivered successfully
+ID_2671,440.21,60.43,3,Home,Online,2023-03-11 15:00:00,Item returned back
+ID_2672,435.35,54.26,14,Books,Online,2023-03-11 16:00:00,Customer pending approval
+ID_2673,,35.18,19,Books,Retail,2023-03-11 17:00:00,Order delivered successfully
+ID_2674,397.11,37.3,16,,Online,2023-03-11 18:00:00,Customer pending approval
+ID_2675,,68.74,7,Clothing,Online,2023-03-11 19:00:00,Item returned back
+ID_2676,49.65,61.69,8,Books,Wholesale,,Customer pending approval
+ID_2677,207.46,49.41,18,Electronics,Wholesale,,Item returned back
+ID_2678,95.03 $,43.73,13,Clothing,Wholesale,,Order delivered successfully
+ID_2679,350.53,19.61,9,Home,Retail,2023-03-11 23:00:00,Customer pending approval
+ID_2680,179.59,33.94,10,Home,Retail,2023-03-12 00:00:00,
+ID_2681,,78.67,9,Electronics,Wholesale,,Item returned back
+ID_2682,324.08,30.79,15,Electronics,Wholesale,,Customer pending approval
+ID_2683,,52.84,2,Books,Online,2023-03-12 03:00:00,Customer pending approval
+ID_2684,74.94,65.11,13,Home,Online,2023-03-12 04:00:00,Order delivered successfully
+ID_2685,432.39,31.18,2,,Retail,2023-03-12 05:00:00,Item returned back
+ID_2686,462.15,52.77,19,Home,Retail,2023-03-12 06:00:00,Item returned back
+ID_2687,248.66,64.07,2,Home,Online,2023-03-12 07:00:00,Order delivered successfully
+ID_2688,307.06,50.19,3,Books,Wholesale,,Order delivered successfully
+ID_2689,384.76,93.03,-5,Clothing,Online,2023-03-12 09:00:00,Item returned back
+ID_2690,,24.97,3,Books,Retail,2023-03-12 10:00:00,Order delivered successfully
+ID_2691,256.26,65.88,10,Electronics,Retail,2023-03-12 11:00:00,Order delivered successfully
+ID_2692,205.34,47.41,6,Books,Online,2023-03-12 12:00:00,Order delivered successfully
+ID_2693,81.72,61.58,16,Books,Online,2023-03-12 13:00:00,
+ID_2694,190.09,56.62,17,Home,Online,2023-03-12 14:00:00,Order delivered successfully
+ID_2695,43.4,39.0,19,Books,Retail,2023-03-12 15:00:00,Customer pending approval
+ID_2696,22.65,53.43,3,,Wholesale,,Customer pending approval
+ID_2697,76.23,22.13,18,Clothing,Online,2023-03-12 17:00:00,Item returned back
+ID_2698,481.93,59.05,7,Books,Retail,2023-03-12 18:00:00,Order delivered successfully
+ID_2699,279.27,54.47,9,,Retail,2023-03-12 19:00:00,Customer pending approval
+ID_2700,483.25,59.58,12,Clothing,Retail,2023-03-12 20:00:00,Item returned back
+ID_2701,,65.87,5,Electronics,Online,2023-03-12 21:00:00,Customer pending approval
+ID_2702,162.79,55.51,3,Electronics,Online,2023-03-12 22:00:00,Order delivered successfully
+ID_2703,258.01,52.22,11,Books,Wholesale,,Item returned back
+ID_2704,225.36,36.78,4,Home,Retail,2023-03-13 00:00:00,Customer pending approval
+ID_2705,61.78,39.32,5,Books,Online,2023-03-13 01:00:00,Item returned back
+ID_2706,324.0,67.8,1,Clothing,Retail,2023-03-13 02:00:00,Customer pending approval
+ID_2707,115.86,71.55,18,Clothing,Retail,,Customer pending approval
+ID_2708,313.6,46.43,12,Clothing,Wholesale,,Order delivered successfully
+ID_2709,328.6,50.69,13,Books,Online,2023-03-13 05:00:00,Order delivered successfully
+ID_2710,84.49,36.43,9,,Online,2023-03-13 06:00:00,Customer pending approval
+ID_2711,40.06,67.59,2,Electronics,Retail,2023-03-13 07:00:00,Item returned back
+ID_2712,,59.98,5,Home,Retail,2023-03-13 08:00:00,Item returned back
+ID_2713,235.3,79.12,13,Books,Wholesale,,Order delivered successfully
+ID_2714,38.5,36.83,16,Electronics,Wholesale,,Customer pending approval
+ID_2715,497.48,44.33,16,Books,Wholesale,,Order delivered successfully
+ID_2716,38.31,53.47,3,Electronics,Wholesale,,
+ID_2717,350.57,59.7,4,Electronics,Wholesale,,Customer pending approval
+ID_2718,,46.76,11,Home,Wholesale,,Order delivered successfully
+ID_2719,127.2,9999.0,14,,Retail,2023-03-13 15:00:00,Item returned back
+ID_2720,79.7,63.22,3,Electronics,Wholesale,,Order delivered successfully
+ID_2721,69.48,60.82,16,Clothing,Retail,2023-03-13 17:00:00,Customer pending approval
+ID_2722,,36.26,15,Clothing,Retail,2023-03-13 18:00:00,Order delivered successfully
+ID_2723,,70.33,10,Clothing,Online,2023-03-13 19:00:00,Item returned back
+ID_2724,349.16,67.55,9,Home,Retail,2023-03-13 20:00:00,Item returned back
+ID_2725,40.52,52.01,11,Electronics,Retail,2023-03-13 21:00:00,Customer pending approval
+ID_2726,259.62,51.19,16,Home,Wholesale,,Order delivered successfully
+ID_2727,498.38,58.31,10,Books,Retail,2023-03-13 23:00:00,Item returned back
+ID_2728,408.85,37.07,17,Books,Wholesale,,
+ID_2729,311.46,50.45,19,Electronics,Wholesale,,Item returned back
+ID_2730,160.06,17.71,2,Clothing,Wholesale,,Customer pending approval
+ID_2731,,63.15,2,,Online,2023-03-14 03:00:00,Customer pending approval
+ID_2732,268.25,26.58,6,Electronics,Wholesale,,
+ID_2733,218.78,72.55,19,Electronics,Retail,2023-03-14 05:00:00,Customer pending approval
+ID_2734,74.05,45.05,8,Home,Wholesale,,Item returned back
+ID_2735,,46.82,3,Books,Wholesale,,Customer pending approval
+ID_2736,230.39,40.58,14,Electronics,Wholesale,,
+ID_2737,105.37 $,45.68,16,Electronics,Online,2023-03-14 09:00:00,Item returned back
+ID_2738,190.2,71.28,1,Electronics,Retail,2023-03-14 10:00:00,Customer pending approval
+ID_2739,212.92,12.68,3,Home,Online,2023-03-14 11:00:00,Item returned back
+ID_2740,415.49,69.15,18,Home,Retail,2023-03-14 12:00:00,Item returned back
+ID_2741,369.47,55.07,9,Home,Online,2023-03-14 13:00:00,Order delivered successfully
+ID_2742,386.96,31.89,6,Electronics,Retail,2023-03-14 14:00:00,Order delivered successfully
+ID_2743,15.41,33.87,1,Clothing,Online,2023-03-14 15:00:00,Order delivered successfully
+ID_2744,213.92,75.15,10,Clothing,Wholesale,,Customer pending approval
+ID_2745,245.86,35.82,6,Clothing,Online,2023-03-14 17:00:00,Order delivered successfully
+ID_2746,19.4,32.7,12,Books,Online,2023-03-14 18:00:00,Item returned back
+ID_2747,137.31,67.06,4,Electronics,Wholesale,,Customer pending approval
+ID_2748,382.54,55.08,13,,Wholesale,,Customer pending approval
+ID_2749,77.18 $,35.93,17,,Retail,2023-03-14 21:00:00,Customer pending approval
+ID_2750,272.3,53.25,8,Clothing,Retail,2023-03-14 22:00:00,Customer pending approval
+ID_2751,115.45,34.61,3,Electronics,Retail,2023-03-14 23:00:00,Item returned back
+ID_2752,15.94,66.51,12,Clothing,Online,2023-03-15 00:00:00,Item returned back
+ID_2753,128.19,65.92,7,Clothing,Retail,2023-03-15 01:00:00,Order delivered successfully
+ID_2754,488.18,57.98,12,Electronics,Online,2023-03-15 02:00:00,
+ID_2755,402.75 $,55.42,2,Books,Online,2023-03-15 03:00:00,Order delivered successfully
+ID_2756,,9999.0,14,Home,Retail,2023-03-15 04:00:00,Item returned back
+ID_2757,249.05 $,50.0,5,Clothing,Retail,2023-03-15 05:00:00,Customer pending approval
+ID_2758,63.77,32.27,9,Home,Online,2023-03-15 06:00:00,Item returned back
+ID_2759,278.5,9999.0,11,Books,Wholesale,,Order delivered successfully
+ID_2760,232.64,81.29,5,Books,Wholesale,,Item returned back
+ID_2761,423.73,34.78,3,Clothing,Online,2023-03-15 09:00:00,Customer pending approval
+ID_2762,58.06,44.58,17,Electronics,Retail,2023-03-15 10:00:00,Customer pending approval
+ID_2763,249.24,56.25,2,,Online,2023-03-15 11:00:00,Order delivered successfully
+ID_2764,83.52,49.19,1,Home,Online,2023-03-15 12:00:00,Customer pending approval
+ID_2765,169.09,35.27,7,Home,Retail,2023-03-15 13:00:00,Item returned back
+ID_2766,371.3,66.83,14,Home,Wholesale,,Item returned back
+ID_2767,243.25,84.8,5,Home,Online,2023-03-15 15:00:00,Item returned back
+ID_2768,194.19,52.94,19,Books,Wholesale,,Item returned back
+ID_2769,203.29,36.44,11,Clothing,Wholesale,,
+ID_2770,,26.77,2,Clothing,Retail,2023-03-15 18:00:00,Item returned back
+ID_2771,,53.87,8,Home,Online,2023-03-15 19:00:00,Order delivered successfully
+ID_2772,447.12,66.56,9,,Online,2023-03-15 20:00:00,Item returned back
+ID_2773,,57.13,3,Home,Wholesale,,Order delivered successfully
+ID_2774,395.58,49.96,2,Home,Wholesale,,Item returned back
+ID_2775,164.55,41.16,7,Electronics,Retail,2023-03-15 23:00:00,Item returned back
+ID_2776,347.19,9999.0,5,Books,Wholesale,,Order delivered successfully
+ID_2777,224.43,62.52,5,Books,Retail,2023-03-16 01:00:00,Customer pending approval
+ID_2778,134.79,63.71,13,Home,Online,2023-03-16 02:00:00,Customer pending approval
+ID_2779,422.03,26.81,6,Books,Retail,2023-03-16 03:00:00,Customer pending approval
+ID_2780,28.83,73.85,18,Clothing,Wholesale,,Order delivered successfully
+ID_2781,451.86,58.61,2,Home,Online,2023-03-16 05:00:00,Customer pending approval
+ID_2782,236.12,70.99,6,Electronics,Retail,2023-03-16 06:00:00,Customer pending approval
+ID_2783,322.23 $,29.87,9,,Online,2023-03-16 07:00:00,
+ID_2784,,29.51,3,Electronics,Retail,2023-03-16 08:00:00,Customer pending approval
+ID_2785,448.61,47.77,1,Electronics,Wholesale,,Customer pending approval
+ID_2786,321.97,57.54,1,Books,Wholesale,,
+ID_2787,,76.95,19,Books,Online,2023-03-16 11:00:00,Order delivered successfully
+ID_2788,42.66,60.59,5,Home,Online,2023-03-16 12:00:00,Order delivered successfully
+ID_2789,264.02,46.36,13,Books,Online,2023-03-16 13:00:00,Customer pending approval
+ID_2790,83.58 $,34.6,19,Electronics,Retail,2023-03-16 14:00:00,Customer pending approval
+ID_2791,,68.45,12,Electronics,Wholesale,,Order delivered successfully
+ID_2792,260.99 $,35.53,16,Clothing,Online,2023-03-16 16:00:00,Customer pending approval
+ID_2793,343.31,74.43,19,Electronics,Online,2023-03-16 17:00:00,Order delivered successfully
+ID_2794,30.42,45.73,3,Home,Online,2023-03-16 18:00:00,Customer pending approval
+ID_2795,51.55,73.86,12,Home,Retail,2023-03-16 19:00:00,Order delivered successfully
+ID_2796,,60.18,5,Books,Online,2023-03-16 20:00:00,Item returned back
+ID_2797,45.32,47.95,2,Books,Online,,Item returned back
+ID_2798,44.92,42.21,7,Books,Retail,2023-03-16 22:00:00,Order delivered successfully
+ID_2799,15.93,44.89,13,Home,Retail,2023-03-16 23:00:00,Item returned back
+ID_2800,478.69,56.42,15,Electronics,Online,2023-03-17 00:00:00,Customer pending approval
+ID_2801,371.38 $,51.16,3,Books,Online,2023-03-17 01:00:00,Order delivered successfully
+ID_2802,183.09 $,41.09,5,Clothing,Retail,2023-03-17 02:00:00,Order delivered successfully
+ID_2803,155.3,47.52,8,Books,Wholesale,,Customer pending approval
+ID_2804,181.35,51.18,1,Home,Retail,2023-03-17 04:00:00,Customer pending approval
+ID_2805,389.58,18.07,8,,Wholesale,,Order delivered successfully
+ID_2806,334.07,56.87,18,Electronics,Online,2023-03-17 06:00:00,
+ID_2807,100.75,35.3,16,Books,Online,2023-03-17 07:00:00,Order delivered successfully
+ID_2808,95.31,32.7,18,Home,Wholesale,,Customer pending approval
+ID_2809,58.21,24.69,12,Home,Retail,2023-03-17 09:00:00,Order delivered successfully
+ID_2810,333.55,23.09,13,Clothing,Online,2023-03-17 10:00:00,Customer pending approval
+ID_2811,384.54,29.67,13,Home,Wholesale,,Customer pending approval
+ID_2812,,39.36,10,Clothing,Retail,2023-03-17 12:00:00,Item returned back
+ID_2813,20.26,79.3,7,Electronics,Wholesale,,Item returned back
+ID_2814,50.26,42.11,14,Home,Retail,2023-03-17 14:00:00,Item returned back
+ID_2815,484.25,52.67,16,Books,Retail,2023-03-17 15:00:00,Customer pending approval
+ID_2816,154.77,56.01,15,Electronics,Retail,2023-03-17 16:00:00,Order delivered successfully
+ID_2817,386.92 $,51.97,12,Books,Retail,2023-03-17 17:00:00,Customer pending approval
+ID_2818,316.09,48.84,9,Books,Wholesale,,Item returned back
+ID_2819,197.15,32.07,8,Books,Wholesale,,Customer pending approval
+ID_2820,110.79,71.76,18,Electronics,Wholesale,,Item returned back
+ID_2821,69.48,77.11,18,,Wholesale,,
+ID_2822,311.36,24.76,13,Home,Wholesale,,Order delivered successfully
+ID_2823,389.57,34.64,18,Books,Retail,2023-03-17 23:00:00,Order delivered successfully
+ID_2824,325.51,45.8,15,Clothing,Online,2023-03-18 00:00:00,Item returned back
+ID_2825,269.85,35.53,4,Home,Online,2023-03-18 01:00:00,Item returned back
+ID_2826,,57.59,17,Electronics,Wholesale,,Customer pending approval
+ID_2827,484.56,39.08,5,Clothing,Wholesale,,Item returned back
+ID_2828,401.37,82.48,16,Electronics,Online,2023-03-18 04:00:00,Customer pending approval
+ID_2829,153.48 $,67.86,9,Clothing,Retail,,Item returned back
+ID_2830,490.19,53.19,10,Home,Wholesale,,Order delivered successfully
+ID_2831,304.92,65.4,18,Clothing,Retail,2023-03-18 07:00:00,Order delivered successfully
+ID_2832,295.39,66.59,17,Home,Online,2023-03-18 08:00:00,Item returned back
+ID_2833,376.56,41.54,18,Electronics,Online,2023-03-18 09:00:00,Customer pending approval
+ID_2834,407.77,37.76,7,Clothing,Wholesale,,Customer pending approval
+ID_2835,331.67,51.17,4,Books,Retail,2023-03-18 11:00:00,Customer pending approval
+ID_2836,72.77,62.92,5,Books,Wholesale,,Item returned back
+ID_2837,175.75,52.09,16,Electronics,Online,2023-03-18 13:00:00,Item returned back
+ID_2838,464.76,26.35,3,Clothing,Retail,2023-03-18 14:00:00,Order delivered successfully
+ID_2839,,37.96,18,Books,Wholesale,,Order delivered successfully
+ID_2840,192.36,48.89,14,Home,Wholesale,,Item returned back
+ID_2841,221.72 $,48.87,15,Clothing,Wholesale,,Order delivered successfully
+ID_2842,225.31,79.59,17,Clothing,Online,2023-03-18 18:00:00,Customer pending approval
+ID_2843,310.34,29.21,1,Books,Wholesale,,Customer pending approval
+ID_2844,472.11,57.58,17,Home,Retail,2023-03-18 20:00:00,
+ID_2845,127.94,72.34,11,Home,Wholesale,,Customer pending approval
+ID_2846,69.54,84.07,17,Home,Online,2023-03-18 22:00:00,Item returned back
+ID_2847,106.76,43.93,14,Clothing,Wholesale,,Customer pending approval
+ID_2848,444.59,57.37,19,Electronics,Online,2023-03-19 00:00:00,Item returned back
+ID_2849,326.45,58.55,7,Clothing,Online,2023-03-19 01:00:00,Customer pending approval
+ID_2850,150.09,52.93,13,Clothing,Retail,2023-03-19 02:00:00,Customer pending approval
+ID_2851,409.81,48.52,18,Books,Retail,2023-03-19 03:00:00,Order delivered successfully
+ID_2852,432.07,56.54,14,Electronics,Wholesale,,Order delivered successfully
+ID_2853,424.79,12.02,1,Home,Online,,Order delivered successfully
+ID_2854,460.27,60.23,7,Books,Online,2023-03-19 06:00:00,Order delivered successfully
+ID_2855,133.60 $,51.89,8,Clothing,Retail,2023-03-19 07:00:00,Order delivered successfully
+ID_2856,379.97,46.66,18,Electronics,Retail,,Order delivered successfully
+ID_2857,235.66 $,80.7,9,Home,Wholesale,,Item returned back
+ID_2858,422.58,39.88,1,,Online,2023-03-19 10:00:00,Item returned back
+ID_2859,366.96,43.95,17,Clothing,Retail,2023-03-19 11:00:00,Order delivered successfully
+ID_2860,390.46,79.87,19,Home,Wholesale,,
+ID_2861,331.52,37.52,6,Home,Online,2023-03-19 13:00:00,Order delivered successfully
+ID_2862,96.94 $,41.75,3,Electronics,Online,2023-03-19 14:00:00,Item returned back
+ID_2863,277.06 $,47.79,5,Books,Retail,2023-03-19 15:00:00,Customer pending approval
+ID_2864,,62.61,2,Electronics,Wholesale,,Item returned back
+ID_2865,469.32,53.12,4,Books,Retail,2023-03-19 17:00:00,Item returned back
+ID_2866,31.16,30.61,10,,Wholesale,,Item returned back
+ID_2867,90.76 $,42.02,10,Books,Online,2023-03-19 19:00:00,Customer pending approval
+ID_2868,74.55,40.89,11,Home,Wholesale,,Order delivered successfully
+ID_2869,,48.84,16,Electronics,Wholesale,,Item returned back
+ID_2870,410.71,56.39,17,Home,Wholesale,,Item returned back
+ID_2871,,56.27,16,Clothing,Wholesale,,
+ID_2872,257.87 $,23.36,7,Electronics,Wholesale,,Order delivered successfully
+ID_2873,,65.96,16,Books,Retail,2023-03-20 01:00:00,
+ID_2874,369.07,53.79,3,Home,Wholesale,,Customer pending approval
+ID_2875,275.7,70.77,16,Home,Wholesale,,Order delivered successfully
+ID_2876,299.27,56.66,8,Electronics,Online,,Order delivered successfully
+ID_2877,259.1,66.52,12,,Wholesale,,Item returned back
+ID_2878,155.8,57.0,3,Books,Online,2023-03-20 06:00:00,Item returned back
+ID_2879,286.86,70.19,17,Books,Retail,2023-03-20 07:00:00,Item returned back
+ID_2880,347.55,57.83,18,Clothing,Retail,2023-03-20 08:00:00,Item returned back
+ID_2881,437.93,48.53,11,Books,Wholesale,,Customer pending approval
+ID_2882,321.78,84.09,4,Home,Retail,2023-03-20 10:00:00,Customer pending approval
+ID_2883,382.95,63.34,16,Clothing,Wholesale,,Item returned back
+ID_2884,88.44,58.61,17,Clothing,Retail,2023-03-20 12:00:00,Order delivered successfully
+ID_2885,236.16,30.86,9,Clothing,Wholesale,,Item returned back
+ID_2886,14.57,30.68,6,Electronics,Wholesale,,Order delivered successfully
+ID_2887,,54.39,2,,Online,2023-03-20 15:00:00,Order delivered successfully
+ID_2888,365.97,52.18,9,Clothing,Online,2023-03-20 16:00:00,Order delivered successfully
+ID_2889,,40.79,6,Electronics,Online,2023-03-20 17:00:00,Customer pending approval
+ID_2890,58.6,52.11,3,Electronics,Online,2023-03-20 18:00:00,Order delivered successfully
+ID_2891,206.73 $,73.83,6,Clothing,Wholesale,,Order delivered successfully
+ID_2892,402.03,60.43,7,,Retail,2023-03-20 20:00:00,
+ID_2893,109.98 $,32.88,1,Home,Wholesale,,Order delivered successfully
+ID_2894,281.99,48.33,1,Clothing,Online,2023-03-20 22:00:00,Order delivered successfully
+ID_2895,369.2,37.93,5,Home,Online,2023-03-20 23:00:00,Item returned back
+ID_2896,311.83,44.18,6,Clothing,Retail,2023-03-21 00:00:00,Order delivered successfully
+ID_2897,102.13,43.8,13,Clothing,Online,2023-03-21 01:00:00,Order delivered successfully
+ID_2898,184.14,42.84,2,Books,Wholesale,,Order delivered successfully
+ID_2899,,31.17,15,,Wholesale,,
+ID_2900,281.57,48.09,15,Clothing,Wholesale,,Order delivered successfully
+ID_2901,12.56,41.59,13,Home,Wholesale,,Customer pending approval
+ID_2902,382.89,6.06,14,,Wholesale,,Order delivered successfully
+ID_2903,,80.79,7,Books,Retail,2023-03-21 07:00:00,Order delivered successfully
+ID_2904,375.41,66.33,14,Clothing,Wholesale,,Customer pending approval
+ID_2905,109.22,44.36,10,Clothing,Online,2023-03-21 09:00:00,Customer pending approval
+ID_2906,,50.28,17,Home,Online,2023-03-21 10:00:00,Order delivered successfully
+ID_2907,190.29,32.43,14,,Online,2023-03-21 11:00:00,Order delivered successfully
+ID_2908,170.2,75.44,8,Electronics,Online,2023-03-21 12:00:00,Order delivered successfully
+ID_2909,82.96,78.46,4,Electronics,Retail,2023-03-21 13:00:00,Item returned back
+ID_2910,,52.35,16,Home,Online,2023-03-21 14:00:00,Item returned back
+ID_2911,439.56,65.35,13,Home,Retail,,Order delivered successfully
+ID_2912,498.2,52.63,18,Electronics,Online,2023-03-21 16:00:00,Customer pending approval
+ID_2913,190.47,29.95,14,,Retail,2023-03-21 17:00:00,Order delivered successfully
+ID_2914,229.82,43.82,18,Clothing,Retail,2023-03-21 18:00:00,Customer pending approval
+ID_2915,363.81,51.98,5,Home,Retail,2023-03-21 19:00:00,Customer pending approval
+ID_2916,444.24,43.18,-5,Home,Online,,Customer pending approval
+ID_2917,300.59,46.72,3,Electronics,Retail,2023-03-21 21:00:00,Order delivered successfully
+ID_2918,201.85,48.63,8,Electronics,Wholesale,,Order delivered successfully
+ID_2919,212.18,48.79,10,Books,Wholesale,,Customer pending approval
+ID_2920,350.85 $,50.78,19,Home,Online,2023-03-22 00:00:00,Item returned back
+ID_2921,,34.09,3,Books,Wholesale,,Item returned back
+ID_2922,313.6,39.24,11,,Wholesale,,Item returned back
+ID_2923,184.19,30.73,11,,Wholesale,,
+ID_2924,399.16 $,64.67,17,Electronics,Online,2023-03-22 04:00:00,Order delivered successfully
+ID_2925,55.57,18.42,16,Home,Online,,Customer pending approval
+ID_2926,298.22 $,67.3,7,Home,Wholesale,,Item returned back
+ID_2927,,70.8,4,Books,Online,2023-03-22 07:00:00,Order delivered successfully
+ID_2928,324.74,45.47,19,Books,Retail,2023-03-22 08:00:00,Customer pending approval
+ID_2929,41.78,10.95,12,Clothing,Wholesale,,Customer pending approval
+ID_2930,294.19,44.58,15,,Online,2023-03-22 10:00:00,Item returned back
+ID_2931,285.13,49.04,11,Electronics,Online,2023-03-22 11:00:00,Customer pending approval
+ID_2932,,34.84,5,Electronics,Wholesale,,Order delivered successfully
+ID_2933,305.71,42.27,5,Electronics,Online,2023-03-22 13:00:00,Item returned back
+ID_2934,341.47,72.95,15,Books,Wholesale,,Item returned back
+ID_2935,404.44,59.97,18,Books,Online,2023-03-22 15:00:00,Order delivered successfully
+ID_2936,142.21,36.13,11,Home,Retail,2023-03-22 16:00:00,Item returned back
+ID_2937,414.27,26.04,12,Electronics,Wholesale,,Customer pending approval
+ID_2938,254.15,45.09,2,Books,Retail,2023-03-22 18:00:00,Customer pending approval
+ID_2939,,46.8,15,Home,Wholesale,,Item returned back
+ID_2940,,57.44,4,Electronics,Online,2023-03-22 20:00:00,Order delivered successfully
+ID_2941,173.78,41.97,18,Clothing,Retail,2023-03-22 21:00:00,Customer pending approval
+ID_2942,394.6,57.67,6,Clothing,Online,2023-03-22 22:00:00,Order delivered successfully
+ID_2943,356.76,79.03,19,Books,Wholesale,,Customer pending approval
+ID_2944,396.42,62.23,11,Home,Wholesale,,Customer pending approval
+ID_2945,263.46,49.28,2,Clothing,Wholesale,,
+ID_2946,225.7,47.25,8,,Wholesale,,Item returned back
+ID_2947,82.25,44.65,11,Home,Wholesale,,Order delivered successfully
+ID_2948,170.81,67.71,5,Clothing,Retail,2023-03-23 04:00:00,Item returned back
+ID_2949,222.67,40.59,18,Home,Wholesale,,Customer pending approval
+ID_2950,53.41,50.68,18,Clothing,Online,2023-03-23 06:00:00,Customer pending approval
+ID_2951,118.1,50.77,14,Books,Retail,2023-03-23 07:00:00,
+ID_2952,303.13,42.47,10,Electronics,Online,2023-03-23 08:00:00,
+ID_2953,370.47,29.41,3,Electronics,Wholesale,,Customer pending approval
+ID_2954,499.19,54.84,9,Books,Online,2023-03-23 10:00:00,Item returned back
+ID_2955,467.23,49.08,3,,Retail,2023-03-23 11:00:00,Item returned back
+ID_2956,,57.5,11,Clothing,Retail,2023-03-23 12:00:00,Order delivered successfully
+ID_2957,216.41,42.0,12,,Retail,2023-03-23 13:00:00,Order delivered successfully
+ID_2958,321.73,68.31,12,Clothing,Online,2023-03-23 14:00:00,Customer pending approval
+ID_2959,394.97 $,36.85,3,Books,Retail,2023-03-23 15:00:00,Customer pending approval
+ID_2960,67.98,75.68,7,Electronics,Online,2023-03-23 16:00:00,Order delivered successfully
+ID_2961,210.85,23.79,14,Home,Wholesale,,Customer pending approval
+ID_2962,421.5,56.52,11,,Wholesale,,Order delivered successfully
+ID_2963,198.08,57.13,7,Electronics,Online,2023-03-23 19:00:00,Order delivered successfully
+ID_2964,290.22,38.07,10,Books,Retail,2023-03-23 20:00:00,Item returned back
+ID_2965,,56.37,11,,Online,2023-03-23 21:00:00,Order delivered successfully
+ID_2966,100.39,69.19,15,Electronics,Online,2023-03-23 22:00:00,Customer pending approval
+ID_2967,187.5,16.75,19,Books,Online,2023-03-23 23:00:00,Item returned back
+ID_2968,173.91,57.54,16,Home,Wholesale,,Item returned back
+ID_2969,22.84,12.6,12,Clothing,Online,2023-03-24 01:00:00,Customer pending approval
+ID_2970,21.85,35.52,18,Clothing,Wholesale,,Customer pending approval
+ID_2971,,74.44,13,Books,Online,2023-03-24 03:00:00,Customer pending approval
+ID_2972,143.8,41.27,5,Clothing,Wholesale,,Order delivered successfully
+ID_2973,263.86,32.39,4,Books,Online,2023-03-24 05:00:00,Item returned back
+ID_2974,156.38,47.03,14,Electronics,Online,2023-03-24 06:00:00,Order delivered successfully
+ID_2975,470.93,81.02,8,Electronics,Retail,2023-03-24 07:00:00,Order delivered successfully
+ID_2976,137.06,22.52,9,Home,Retail,2023-03-24 08:00:00,Order delivered successfully
+ID_2977,220.53,34.23,19,,Online,2023-03-24 09:00:00,Order delivered successfully
+ID_2978,,72.46,3,Home,Online,2023-03-24 10:00:00,Item returned back
+ID_2979,422.55,77.87,5,Home,Online,,Item returned back
+ID_2980,101.19,48.45,18,Electronics,Online,2023-03-24 12:00:00,Order delivered successfully
+ID_2981,403.3,31.41,1,Home,Retail,2023-03-24 13:00:00,Customer pending approval
+ID_2982,234.51 $,81.44,8,Clothing,Wholesale,,Item returned back
+ID_2983,246.65,73.92,19,Home,Online,2023-03-24 15:00:00,Order delivered successfully
+ID_2984,,60.18,17,Books,Retail,2023-03-24 16:00:00,
+ID_2985,49.49,37.81,17,Clothing,Online,2023-03-24 17:00:00,Customer pending approval
+ID_2986,366.69 $,49.26,11,Electronics,Online,2023-03-24 18:00:00,
+ID_2987,253.27,47.59,2,,Wholesale,,Item returned back
+ID_2988,224.06,54.96,6,Clothing,Online,2023-03-24 20:00:00,Customer pending approval
+ID_2989,367.46,71.77,14,,Online,2023-03-24 21:00:00,Item returned back
+ID_2990,385.1,63.19,3,Clothing,Wholesale,,Item returned back
+ID_2991,,33.84,12,Books,Wholesale,,Customer pending approval
+ID_2992,309.01,70.65,4,Books,Wholesale,,Order delivered successfully
+ID_2993,76.32,54.7,12,,Wholesale,,Customer pending approval
+ID_2994,378.17,60.31,13,Electronics,Retail,2023-03-25 02:00:00,
+ID_2995,331.91,72.0,2,Electronics,Retail,2023-03-25 03:00:00,Item returned back
+ID_2996,478.74,33.33,2,Books,Retail,2023-03-25 04:00:00,Order delivered successfully
+ID_2997,43.79,49.46,15,Books,Online,2023-03-25 05:00:00,Item returned back
+ID_2998,37.96 $,42.03,17,Electronics,Wholesale,,Customer pending approval
+ID_2999,,26.48,7,Electronics,Wholesale,,Order delivered successfully
+ID_1000,,36.83,17,Clothing,Wholesale,,Customer pending approval
+ID_1001,475.85,37.6,9,Books,Online,2023-01-01 01:00:00,Order delivered successfully
+ID_1002,,46.6,2,,Retail,2023-01-01 02:00:00,Order delivered successfully
+ID_1003,,55.51,18,Books,Online,2023-01-01 03:00:00,Order delivered successfully
+ID_1004,86.45,63.7,9,Clothing,Wholesale,,Customer pending approval
+ID_1005,86.44,37.95,6,,Wholesale,,Order delivered successfully
+ID_1006,38.46,72.39,11,Books,Wholesale,,Order delivered successfully
+ID_1007,434.43,45.93,6,,Retail,2023-01-01 07:00:00,Order delivered successfully
+ID_1008,304.55,49.68,6,Clothing,Online,2023-01-01 08:00:00,Item returned back
+ID_1009,356.96,38.79,13,Home,Online,2023-01-01 09:00:00,Customer pending approval
+ID_1010,20.09,13.64,11,,Online,2023-01-01 10:00:00,Item returned back
+ID_1011,485.26,63.26,14,Clothing,Retail,2023-01-01 11:00:00,Item returned back
+ID_1012,417.9,61.05,2,Home,Retail,2023-01-01 12:00:00,Customer pending approval
+ID_1013,114.05,45.78,8,,Wholesale,,Item returned back
+ID_1014,99.09,51.0,3,Books,Wholesale,,Order delivered successfully
+ID_1015,99.87,57.74,3,Electronics,Online,2023-01-01 15:00:00,Order delivered successfully
+ID_1016,159.08,26.56,1,Books,Retail,2023-01-01 16:00:00,Order delivered successfully
+ID_1017,267.13,42.06,19,Books,Retail,2023-01-01 17:00:00,Order delivered successfully
+ID_1018,221.65,61.91,18,Clothing,Online,2023-01-01 18:00:00,Customer pending approval
+ID_1019,,31.19,17,Clothing,Online,2023-01-01 19:00:00,Item returned back
+ID_1020,309.81,54.4,13,Books,Wholesale,,Item returned back
+ID_1021,78.35,29.65,3,Home,Wholesale,,
+ID_1022,153.15,57.0,1,,Wholesale,,
+ID_1023,189.52,49.47,4,Home,Online,2023-01-01 23:00:00,Item returned back
+ID_1024,233.47,25.77,13,Clothing,Online,2023-01-02 00:00:00,Customer pending approval
+ID_1025,394.74,67.47,17,Clothing,Wholesale,,Item returned back
+ID_1026,107.84,38.98,11,Books,Wholesale,,Order delivered successfully
+ID_1027,261.97,37.85,2,Electronics,Retail,2023-01-02 03:00:00,Order delivered successfully
+ID_1028,300.28 $,53.01,16,Clothing,Retail,2023-01-02 04:00:00,Customer pending approval
+ID_1029,32.76,67.23,2,Books,Wholesale,,
+ID_1030,307.7,34.76,19,Books,Wholesale,,Customer pending approval
+ID_1031,93.56,50.93,19,Electronics,Retail,2023-01-02 07:00:00,Customer pending approval
+ID_1032,41.88,56.43,16,,Wholesale,,Order delivered successfully
+ID_1033,474.95,60.4,19,Books,Retail,2023-01-02 09:00:00,Item returned back
+ID_1034,483.16,52.65,9,Books,Retail,2023-01-02 10:00:00,Order delivered successfully
+ID_1035,406.11,44.49,1,Books,Retail,2023-01-02 11:00:00,Item returned back
+ID_1036,159.26,37.59,10,Home,Online,2023-01-02 12:00:00,Order delivered successfully
+ID_1037,57.86,51.29,19,Home,Online,2023-01-02 13:00:00,Order delivered successfully
+ID_1038,345.27,33.92,1,Electronics,Wholesale,,Item returned back
+ID_1039,225.67,6.18,2,Clothing,Retail,2023-01-02 15:00:00,
+ID_1040,69.8,56.55,16,Home,Online,2023-01-02 16:00:00,Order delivered successfully
+ID_1041,252.64,63.56,12,Clothing,Wholesale,,Item returned back
+ID_1042,26.85,14.56,8,,Wholesale,,Order delivered successfully
+ID_1043,455.57,34.85,18,,Wholesale,,Item returned back
+ID_1044,136.8,59.29,2,Books,Wholesale,,Order delivered successfully
+ID_1045,334.64 $,80.86,13,Electronics,Wholesale,,Order delivered successfully
+ID_1046,162.74,50.31,6,Clothing,Retail,2023-01-02 22:00:00,Order delivered successfully
+ID_1047,264.83,39.08,6,Books,Wholesale,,Customer pending approval
+ID_1048,277.89,47.26,9,Home,Retail,2023-01-03 00:00:00,Item returned back
+ID_1049,100.58 $,70.62,16,Clothing,Online,2023-01-03 01:00:00,Order delivered successfully
+ID_1100,25.4,52.92,14,,Retail,,
+ID_1101,,44.7,19,,Wholesale,,CUSTOMER PENDING APPROVAL  
+ID_1102,,55.08,5,Home,Wholesale,,ITEM RETURNED BACK  
+ID_1103,259.2,45.57,18,,Wholesale,,CUSTOMER PENDING APPROVAL  
+ID_1104,454.71,52.53,12,Fashon,Wholesale,,
+ID_1105,132.15,69.76,17,Books,Retail,2023-01-05 09:00:00,CUSTOMER PENDING APPROVAL  
+ID_1106,211.09,34.9,13,Home,Online,2023-01-05 10:00:00,ITEM RETURNED BACK  
+ID_1107,380.22,9999.0,2,Books,Online,2023-01-05 11:00:00,ORDER DELIVERED SUCCESSFULLY  
+ID_1108,122.11,69.76,13,Books,Online,2023-01-05 12:00:00,CUSTOMER PENDING APPROVAL  
+ID_1109,,48.23,7,Home,Online,2023-01-05 13:00:00,ORDER DELIVERED SUCCESSFULLY  
+ID_1110,151.98,18.17,10,Books,Wholesale,,ORDER DELIVERED SUCCESSFULLY  
+ID_1111,89.0,40.88,6,Home,Retail,2023-01-05 15:00:00,CUSTOMER PENDING APPROVAL  
+ID_1112,465.55,69.45,3,Home,Retail,2023-01-05 16:00:00,CUSTOMER PENDING APPROVAL  
+ID_1113,,49.66,3,Home,Retail,2023-01-05 17:00:00,ITEM RETURNED BACK  
+ID_1114,320.37,35.01,18,Home,Wholesale,,ITEM RETURNED BACK  
+ID_1115,437.02,42.43,11,electronics,Retail,2023-01-05 19:00:00,ORDER DELIVERED SUCCESSFULLY  
+ID_1116,403.8,62.61,5,Home,Wholesale,,
+ID_1117,101.42,58.2,19,Fashon,Retail,2023-01-05 21:00:00,ORDER DELIVERED SUCCESSFULLY  
+ID_1118,,46.42,19,Fashon,Online,,ORDER DELIVERED SUCCESSFULLY  
+ID_1119,274.28,44.5,15,Fashon,Wholesale,,ITEM RETURNED BACK  
+ID_1120,405.65,44.12,16,Home,Retail,2023-01-06 00:00:00,ITEM RETURNED BACK  
+ID_1121,449.08 $,36.16,9,Fashon,Online,2023-01-06 01:00:00,ITEM RETURNED BACK  
+ID_1122,165.82,74.23,4,electronics,Online,2023-01-06 02:00:00,CUSTOMER PENDING APPROVAL  
+ID_1123,,45.17,15,,Online,2023-01-06 03:00:00,ORDER DELIVERED SUCCESSFULLY  
+ID_1124,121.69,68.26,12,Home,Wholesale,,ORDER DELIVERED SUCCESSFULLY  
+ID_1125,,72.82,3,Fashon,Wholesale,,ORDER DELIVERED SUCCESSFULLY  
+ID_1126,410.83,64.97,14,electronics,Retail,2023-01-06 06:00:00,ITEM RETURNED BACK  
+ID_1127,431.76,43.53,17,Books,Online,2023-01-06 07:00:00,ITEM RETURNED BACK  
+ID_1128,13.41,56.06,19,electronics,Retail,2023-01-06 08:00:00,ITEM RETURNED BACK  
+ID_1129,260.27,49.64,6,Fashon,Retail,2023-01-06 09:00:00,ITEM RETURNED BACK  
